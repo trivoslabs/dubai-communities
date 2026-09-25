@@ -1,0 +1,4936 @@
+{
+ "$schema_note": "The 224 communities of the Emirate of Dubai. Identity is communityNumber (the official community number, whose first digit is the sector). name is verbatim from the source layer (English in upper case, as published); nameDisplay.en is title-cased for user interfaces only. centroid and bbox are derived from the source boundary polygons ([lon, lat] / [minLon, minLat, maxLon, maxLat], WGS 84) and are approximate — they are not official coordinates. Store and match by communityNumber, never by name.",
+ "source": "Dubai Municipality GIS community layer (Community_20260815), obtained from Dubai Data (data.dubai) as Open-classified data",
+ "sourceLayer": "Community_20260815",
+ "retrieved": "2026-08-25",
+ "communities": [
+  {
+   "communityNumber": "101",
+   "sector": 1,
+   "name": {
+    "en": "NAKHLAT DEIRA",
+    "ar": "نخلة ديره"
+   },
+   "nameDisplay": {
+    "en": "Nakhlat Deira",
+    "ar": "نخلة ديره"
+   },
+   "centroid": [
+    55.27052,
+    25.33223
+   ],
+   "bbox": [
+    55.18884,
+    25.27598,
+    55.34341,
+    25.38919
+   ]
+  },
+  {
+   "communityNumber": "111",
+   "sector": 1,
+   "name": {
+    "en": "AL CORNICHE",
+    "ar": "الكورنيش"
+   },
+   "nameDisplay": {
+    "en": "Al Corniche",
+    "ar": "الكورنيش"
+   },
+   "centroid": [
+    55.30209,
+    25.27784
+   ],
+   "bbox": [
+    55.29486,
+    25.27298,
+    55.31009,
+    25.28303
+   ]
+  },
+  {
+   "communityNumber": "112",
+   "sector": 1,
+   "name": {
+    "en": "AL RAS",
+    "ar": "الراس"
+   },
+   "nameDisplay": {
+    "en": "Al Ras",
+    "ar": "الراس"
+   },
+   "centroid": [
+    55.29508,
+    25.26774
+   ],
+   "bbox": [
+    55.29212,
+    25.26574,
+    55.29901,
+    25.2736
+   ]
+  },
+  {
+   "communityNumber": "113",
+   "sector": 1,
+   "name": {
+    "en": "AL DAGHAYA",
+    "ar": "الضغاية"
+   },
+   "nameDisplay": {
+    "en": "Al Daghaya",
+    "ar": "الضغاية"
+   },
+   "centroid": [
+    55.29906,
+    25.27132
+   ],
+   "bbox": [
+    55.29741,
+    25.27034,
+    55.30238,
+    25.27515
+   ]
+  },
+  {
+   "communityNumber": "114",
+   "sector": 1,
+   "name": {
+    "en": "AL BUTEEN",
+    "ar": "البطين"
+   },
+   "nameDisplay": {
+    "en": "Al Buteen",
+    "ar": "البطين"
+   },
+   "centroid": [
+    55.29859,
+    25.26918
+   ],
+   "bbox": [
+    55.29727,
+    25.26706,
+    55.30237,
+    25.27077
+   ]
+  },
+  {
+   "communityNumber": "115",
+   "sector": 1,
+   "name": {
+    "en": "AL SABKHA",
+    "ar": "السبخة"
+   },
+   "nameDisplay": {
+    "en": "Al Sabkha",
+    "ar": "السبخة"
+   },
+   "centroid": [
+    55.30241,
+    25.26891
+   ],
+   "bbox": [
+    55.30048,
+    25.26684,
+    55.30364,
+    25.27149
+   ]
+  },
+  {
+   "communityNumber": "116",
+   "sector": 1,
+   "name": {
+    "en": "AYAL NASIR",
+    "ar": "عيال ناصر"
+   },
+   "nameDisplay": {
+    "en": "Ayal Nasir",
+    "ar": "عيال ناصر"
+   },
+   "centroid": [
+    55.30389,
+    25.27401
+   ],
+   "bbox": [
+    55.30155,
+    25.27149,
+    55.30651,
+    25.27689
+   ]
+  },
+  {
+   "communityNumber": "117",
+   "sector": 1,
+   "name": {
+    "en": "AL MURAR",
+    "ar": "المرر"
+   },
+   "nameDisplay": {
+    "en": "Al Murar",
+    "ar": "المرر"
+   },
+   "centroid": [
+    55.31168,
+    25.27782
+   ],
+   "bbox": [
+    55.30481,
+    25.27345,
+    55.31537,
+    25.27987
+   ]
+  },
+  {
+   "communityNumber": "118",
+   "sector": 1,
+   "name": {
+    "en": "NAIF",
+    "ar": "نايف"
+   },
+   "nameDisplay": {
+    "en": "Naif",
+    "ar": "نايف"
+   },
+   "centroid": [
+    55.3091,
+    25.27167
+   ],
+   "bbox": [
+    55.30238,
+    25.2689,
+    55.31642,
+    25.2766
+   ]
+  },
+  {
+   "communityNumber": "119",
+   "sector": 1,
+   "name": {
+    "en": "AL RIGGA",
+    "ar": "الرقة"
+   },
+   "nameDisplay": {
+    "en": "Al Rigga",
+    "ar": "الرقة"
+   },
+   "centroid": [
+    55.30965,
+    25.26623
+   ],
+   "bbox": [
+    55.30333,
+    25.26198,
+    55.31643,
+    25.27008
+   ]
+  },
+  {
+   "communityNumber": "121",
+   "sector": 1,
+   "name": {
+    "en": "CORNICHE DEIRA",
+    "ar": "كورنيش ديره"
+   },
+   "nameDisplay": {
+    "en": "Corniche Deira",
+    "ar": "كورنيش ديره"
+   },
+   "centroid": [
+    55.31742,
+    25.28748
+   ],
+   "bbox": [
+    55.30835,
+    25.27987,
+    55.32757,
+    25.2949
+   ]
+  },
+  {
+   "communityNumber": "122",
+   "sector": 1,
+   "name": {
+    "en": "AL BARAHA",
+    "ar": "البراحة"
+   },
+   "nameDisplay": {
+    "en": "Al Baraha",
+    "ar": "البراحة"
+   },
+   "centroid": [
+    55.31641,
+    25.2799
+   ],
+   "bbox": [
+    55.31009,
+    25.2766,
+    55.32713,
+    25.28783
+   ]
+  },
+  {
+   "communityNumber": "123",
+   "sector": 1,
+   "name": {
+    "en": "AL MUTEENA",
+    "ar": "المطينة"
+   },
+   "nameDisplay": {
+    "en": "Al Muteena",
+    "ar": "المطينة"
+   },
+   "centroid": [
+    55.3234,
+    25.27388
+   ],
+   "bbox": [
+    55.31537,
+    25.27008,
+    55.33036,
+    25.27867
+   ]
+  },
+  {
+   "communityNumber": "124",
+   "sector": 1,
+   "name": {
+    "en": "AL MURAQQABAT",
+    "ar": "المرقبات"
+   },
+   "nameDisplay": {
+    "en": "Al Muraqqabat",
+    "ar": "المرقبات"
+   },
+   "centroid": [
+    55.32345,
+    25.26599
+   ],
+   "bbox": [
+    55.31429,
+    25.25866,
+    55.33057,
+    25.27047
+   ]
+  },
+  {
+   "communityNumber": "125",
+   "sector": 1,
+   "name": {
+    "en": "RIGGAT AL BUTEEN",
+    "ar": "رقة البطين"
+   },
+   "nameDisplay": {
+    "en": "Riggat Al Buteen",
+    "ar": "رقة البطين"
+   },
+   "centroid": [
+    55.31742,
+    25.25949
+   ],
+   "bbox": [
+    55.31223,
+    25.25295,
+    55.32638,
+    25.26446
+   ]
+  },
+  {
+   "communityNumber": "126",
+   "sector": 1,
+   "name": {
+    "en": "ABU HAIL",
+    "ar": "أبو هيل"
+   },
+   "nameDisplay": {
+    "en": "Abu Hail",
+    "ar": "أبو هيل"
+   },
+   "centroid": [
+    55.33014,
+    25.28509
+   ],
+   "bbox": [
+    55.32223,
+    25.27867,
+    55.33855,
+    25.29257
+   ]
+  },
+  {
+   "communityNumber": "127",
+   "sector": 1,
+   "name": {
+    "en": "HOR AL ANZ",
+    "ar": "هور العنز"
+   },
+   "nameDisplay": {
+    "en": "Hor Al Anz",
+    "ar": "هور العنز"
+   },
+   "centroid": [
+    55.33685,
+    25.27678
+   ],
+   "bbox": [
+    55.32713,
+    25.27047,
+    55.3483,
+    25.28376
+   ]
+  },
+  {
+   "communityNumber": "128",
+   "sector": 1,
+   "name": {
+    "en": "AL KHABAISI",
+    "ar": "الخبيصي"
+   },
+   "nameDisplay": {
+    "en": "Al Khabaisi",
+    "ar": "الخبيصي"
+   },
+   "centroid": [
+    55.33846,
+    25.26949
+   ],
+   "bbox": [
+    55.32961,
+    25.26102,
+    55.34937,
+    25.27606
+   ]
+  },
+  {
+   "communityNumber": "129",
+   "sector": 1,
+   "name": {
+    "en": "PORT SAEED",
+    "ar": "بور سعيد"
+   },
+   "nameDisplay": {
+    "en": "Port Saeed",
+    "ar": "بور سعيد"
+   },
+   "centroid": [
+    55.33248,
+    25.24453
+   ],
+   "bbox": [
+    55.32201,
+    25.23465,
+    55.3407,
+    25.26404
+   ]
+  },
+  {
+   "communityNumber": "131",
+   "sector": 1,
+   "name": {
+    "en": "AL HAMRIYA PORT",
+    "ar": "ميناء الحمرية"
+   },
+   "nameDisplay": {
+    "en": "Al Hamriya Port",
+    "ar": "ميناء الحمرية"
+   },
+   "centroid": [
+    55.33396,
+    25.30042
+   ],
+   "bbox": [
+    55.32491,
+    25.29257,
+    55.34146,
+    25.30929
+   ]
+  },
+  {
+   "communityNumber": "132",
+   "sector": 1,
+   "name": {
+    "en": "AL WUHEIDA",
+    "ar": "الوحيدة"
+   },
+   "nameDisplay": {
+    "en": "Al Wuheida",
+    "ar": "الوحيدة"
+   },
+   "centroid": [
+    55.33705,
+    25.29098
+   ],
+   "bbox": [
+    55.32757,
+    25.28376,
+    55.34545,
+    25.29834
+   ]
+  },
+  {
+   "communityNumber": "133",
+   "sector": 1,
+   "name": {
+    "en": "HOR AL ANZ EAST",
+    "ar": "هور العنز شرق"
+   },
+   "nameDisplay": {
+    "en": "Hor Al Anz East",
+    "ar": "هور العنز شرق"
+   },
+   "centroid": [
+    55.34689,
+    25.28293
+   ],
+   "bbox": [
+    55.33855,
+    25.27522,
+    55.35572,
+    25.29019
+   ]
+  },
+  {
+   "communityNumber": "134",
+   "sector": 1,
+   "name": {
+    "en": "AL MAMZAR",
+    "ar": "الممزر"
+   },
+   "nameDisplay": {
+    "en": "Al Mamzar",
+    "ar": "الممزر"
+   },
+   "centroid": [
+    55.34788,
+    25.3171
+   ],
+   "bbox": [
+    55.33581,
+    25.28104,
+    55.36235,
+    25.32794
+   ]
+  },
+  {
+   "communityNumber": "213",
+   "sector": 2,
+   "name": {
+    "en": "NADD SHAMMA",
+    "ar": "ند شما"
+   },
+   "nameDisplay": {
+    "en": "Nadd Shamma",
+    "ar": "ند شما"
+   },
+   "centroid": [
+    55.38459,
+    25.21556
+   ],
+   "bbox": [
+    55.37583,
+    25.2126,
+    55.39465,
+    25.22207
+   ]
+  },
+  {
+   "communityNumber": "214",
+   "sector": 2,
+   "name": {
+    "en": "AL GARHOUD",
+    "ar": "القرهود"
+   },
+   "nameDisplay": {
+    "en": "Al Garhoud",
+    "ar": "القرهود"
+   },
+   "centroid": [
+    55.35084,
+    25.24276
+   ],
+   "bbox": [
+    55.33647,
+    25.22997,
+    55.36903,
+    25.25605
+   ]
+  },
+  {
+   "communityNumber": "215",
+   "sector": 2,
+   "name": {
+    "en": "UMM RAMOOL",
+    "ar": "أم رمول"
+   },
+   "nameDisplay": {
+    "en": "Umm Ramool",
+    "ar": "أم رمول"
+   },
+   "centroid": [
+    55.36784,
+    25.22976
+   ],
+   "bbox": [
+    55.3532,
+    25.21747,
+    55.37783,
+    25.24132
+   ]
+  },
+  {
+   "communityNumber": "216",
+   "sector": 2,
+   "name": {
+    "en": "AL RASHIDIYA",
+    "ar": "الراشدية"
+   },
+   "nameDisplay": {
+    "en": "Al Rashidiya",
+    "ar": "الراشدية"
+   },
+   "centroid": [
+    55.39167,
+    25.22351
+   ],
+   "bbox": [
+    55.3763,
+    25.21229,
+    55.4051,
+    25.23706
+   ]
+  },
+  {
+   "communityNumber": "221",
+   "sector": 2,
+   "name": {
+    "en": "DUBAI INT'L AIRPORT",
+    "ar": "مطار دبي الدولي"
+   },
+   "nameDisplay": {
+    "en": "Dubai Int'l Airport",
+    "ar": "مطار دبي الدولي"
+   },
+   "centroid": [
+    55.37005,
+    25.25131
+   ],
+   "bbox": [
+    55.33643,
+    25.23001,
+    55.40424,
+    25.27486
+   ]
+  },
+  {
+   "communityNumber": "226",
+   "sector": 2,
+   "name": {
+    "en": "AL TWAR FIRST",
+    "ar": "الطوار الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Twar First",
+    "ar": "الطوار الأولى"
+   },
+   "centroid": [
+    55.36273,
+    25.27139
+   ],
+   "bbox": [
+    55.34896,
+    25.26215,
+    55.37796,
+    25.28104
+   ]
+  },
+  {
+   "communityNumber": "227",
+   "sector": 2,
+   "name": {
+    "en": "AL TWAR SECOND",
+    "ar": "الطوار الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Twar Second",
+    "ar": "الطوار الثانية"
+   },
+   "centroid": [
+    55.38264,
+    25.26086
+   ],
+   "bbox": [
+    55.37383,
+    25.25433,
+    55.38967,
+    25.26793
+   ]
+  },
+  {
+   "communityNumber": "228",
+   "sector": 2,
+   "name": {
+    "en": "AL TWAR THIRD",
+    "ar": "الطوار الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Twar Third",
+    "ar": "الطوار الثالثة"
+   },
+   "centroid": [
+    55.39539,
+    25.24979
+   ],
+   "bbox": [
+    55.38712,
+    25.24005,
+    55.40555,
+    25.26105
+   ]
+  },
+  {
+   "communityNumber": "231",
+   "sector": 2,
+   "name": {
+    "en": "AL NAHDA FIRST",
+    "ar": "النهدة الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Nahda First",
+    "ar": "النهدة الأولى"
+   },
+   "centroid": [
+    55.36423,
+    25.28867
+   ],
+   "bbox": [
+    55.35572,
+    25.27817,
+    55.37791,
+    25.29941
+   ]
+  },
+  {
+   "communityNumber": "232",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS",
+    "ar": "القصيص"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais",
+    "ar": "القصيص"
+   },
+   "centroid": [
+    55.37224,
+    25.27826
+   ],
+   "bbox": [
+    55.36049,
+    25.26793,
+    55.38473,
+    25.28816
+   ]
+  },
+  {
+   "communityNumber": "233",
+   "sector": 2,
+   "name": {
+    "en": "AL TWAR FIFTH",
+    "ar": "الطوار الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Twar Fifth",
+    "ar": "الطوار الخامسة"
+   },
+   "centroid": [
+    55.38711,
+    25.26941
+   ],
+   "bbox": [
+    55.37796,
+    25.26105,
+    55.39629,
+    25.27765
+   ]
+  },
+  {
+   "communityNumber": "234",
+   "sector": 2,
+   "name": {
+    "en": "AL TWAR FOURTH",
+    "ar": "الطوار الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Twar Fourth",
+    "ar": "الطوار الرابعة"
+   },
+   "centroid": [
+    55.40048,
+    25.26183
+   ],
+   "bbox": [
+    55.38967,
+    25.25174,
+    55.40995,
+    25.27095
+   ]
+  },
+  {
+   "communityNumber": "241",
+   "sector": 2,
+   "name": {
+    "en": "AL NAHDA SECOND",
+    "ar": "النهدة الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Nahda Second",
+    "ar": "النهدة الثانية"
+   },
+   "centroid": [
+    55.37853,
+    25.29126
+   ],
+   "bbox": [
+    55.36663,
+    25.28144,
+    55.38842,
+    25.29826
+   ]
+  },
+  {
+   "communityNumber": "242",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS IND. FIRST",
+    "ar": "القصيص الصناعية الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais Ind. First",
+    "ar": "القصيص الصناعية الأولى"
+   },
+   "centroid": [
+    55.38636,
+    25.28676
+   ],
+   "bbox": [
+    55.37842,
+    25.27765,
+    55.3948,
+    25.29573
+   ]
+  },
+  {
+   "communityNumber": "243",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS IND. SECOND",
+    "ar": "القصيص الصناعية الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais Ind. Second",
+    "ar": "القصيص الصناعية الثانية"
+   },
+   "centroid": [
+    55.39377,
+    25.28155
+   ],
+   "bbox": [
+    55.38473,
+    25.27095,
+    55.40093,
+    25.29202
+   ]
+  },
+  {
+   "communityNumber": "244",
+   "sector": 2,
+   "name": {
+    "en": "MUHAISANAH THIRD",
+    "ar": "محيصنة الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Muhaisanah Third",
+    "ar": "محيصنة الثالثة"
+   },
+   "centroid": [
+    55.40406,
+    25.27202
+   ],
+   "bbox": [
+    55.39617,
+    25.26378,
+    55.41519,
+    25.28084
+   ]
+  },
+  {
+   "communityNumber": "245",
+   "sector": 2,
+   "name": {
+    "en": "MUHAISANAH FOURTH",
+    "ar": "محيصنة الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Muhaisanah Fourth",
+    "ar": "محيصنة الرابعة"
+   },
+   "centroid": [
+    55.409,
+    25.2794
+   ],
+   "bbox": [
+    55.3967,
+    25.27007,
+    55.42227,
+    25.28847
+   ]
+  },
+  {
+   "communityNumber": "246",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS IND. THIRD",
+    "ar": "القصيص الصناعية الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais Ind. Third",
+    "ar": "القصيص الصناعية الثالثة"
+   },
+   "centroid": [
+    55.38896,
+    25.2972
+   ],
+   "bbox": [
+    55.37718,
+    25.29202,
+    55.3967,
+    25.30248
+   ]
+  },
+  {
+   "communityNumber": "247",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS IND. FOURTH",
+    "ar": "القصيص الصناعية الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais Ind. Fourth",
+    "ar": "القصيص الصناعية الرابعة"
+   },
+   "centroid": [
+    55.40028,
+    25.29349
+   ],
+   "bbox": [
+    55.3948,
+    25.28847,
+    55.40728,
+    25.29845
+   ]
+  },
+  {
+   "communityNumber": "248",
+   "sector": 2,
+   "name": {
+    "en": "AL QUSAIS IND. FIFTH",
+    "ar": "القصيص الصناعية الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Qusais Ind. Fifth",
+    "ar": "القصيص الصناعية الخامسة"
+   },
+   "centroid": [
+    55.41459,
+    25.28654
+   ],
+   "bbox": [
+    55.40093,
+    25.2785,
+    55.42775,
+    25.29444
+   ]
+  },
+  {
+   "communityNumber": "251",
+   "sector": 2,
+   "name": {
+    "en": "MIRDIF",
+    "ar": "مردف"
+   },
+   "nameDisplay": {
+    "en": "Mirdif",
+    "ar": "مردف"
+   },
+   "centroid": [
+    55.42183,
+    25.22327
+   ],
+   "bbox": [
+    55.40279,
+    25.20698,
+    55.4424,
+    25.23522
+   ]
+  },
+  {
+   "communityNumber": "252",
+   "sector": 2,
+   "name": {
+    "en": "MUSHRAIF",
+    "ar": "مشرف"
+   },
+   "nameDisplay": {
+    "en": "Mushraif",
+    "ar": "مشرف"
+   },
+   "centroid": [
+    55.44705,
+    25.20143
+   ],
+   "bbox": [
+    55.42795,
+    25.18982,
+    55.4649,
+    25.23208
+   ]
+  },
+  {
+   "communityNumber": "261",
+   "sector": 2,
+   "name": {
+    "en": "MUHAISNAH FIRST",
+    "ar": "محيصنة الأولى"
+   },
+   "nameDisplay": {
+    "en": "Muhaisnah First",
+    "ar": "محيصنة الأولى"
+   },
+   "centroid": [
+    55.4207,
+    25.24451
+   ],
+   "bbox": [
+    55.40347,
+    25.23292,
+    55.43109,
+    25.25531
+   ]
+  },
+  {
+   "communityNumber": "262",
+   "sector": 2,
+   "name": {
+    "en": "AL MIZHAR FIRST",
+    "ar": "المزهر الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Mizhar First",
+    "ar": "المزهر الأولى"
+   },
+   "centroid": [
+    55.43993,
+    25.24926
+   ],
+   "bbox": [
+    55.42544,
+    25.23077,
+    55.45593,
+    25.25825
+   ]
+  },
+  {
+   "communityNumber": "263",
+   "sector": 2,
+   "name": {
+    "en": "AL MIZHAR SECOND",
+    "ar": "المزهر الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Mizhar Second",
+    "ar": "المزهر الثانية"
+   },
+   "centroid": [
+    55.45973,
+    25.24286
+   ],
+   "bbox": [
+    55.45087,
+    25.22861,
+    55.46939,
+    25.25756
+   ]
+  },
+  {
+   "communityNumber": "264",
+   "sector": 2,
+   "name": {
+    "en": "MUHAISANAH SECOND",
+    "ar": "محيصنة الثانية"
+   },
+   "nameDisplay": {
+    "en": "Muhaisanah Second",
+    "ar": "محيصنة الثانية"
+   },
+   "centroid": [
+    55.42772,
+    25.2633
+   ],
+   "bbox": [
+    55.40555,
+    25.25166,
+    55.43929,
+    25.2785
+   ]
+  },
+  {
+   "communityNumber": "265",
+   "sector": 2,
+   "name": {
+    "en": "AL MIZHAR FOURTH",
+    "ar": "المزهر الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Mizhar Fourth",
+    "ar": "المزهر الرابعة"
+   },
+   "centroid": [
+    55.44041,
+    25.26327
+   ],
+   "bbox": [
+    55.42972,
+    25.25531,
+    55.46027,
+    25.27288
+   ]
+  },
+  {
+   "communityNumber": "266",
+   "sector": 2,
+   "name": {
+    "en": "AL MIZHAR THIRD",
+    "ar": "المزهر الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Mizhar Third",
+    "ar": "المزهر الثالثة"
+   },
+   "centroid": [
+    55.46367,
+    25.26422
+   ],
+   "bbox": [
+    55.45593,
+    25.2552,
+    55.47262,
+    25.27407
+   ]
+  },
+  {
+   "communityNumber": "267",
+   "sector": 2,
+   "name": {
+    "en": "MUHAISANAH FIFTH",
+    "ar": "محيصنة الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Muhaisanah Fifth",
+    "ar": "محيصنة الخامسة"
+   },
+   "centroid": [
+    55.43382,
+    25.27909
+   ],
+   "bbox": [
+    55.42227,
+    25.27153,
+    55.44379,
+    25.2867
+   ]
+  },
+  {
+   "communityNumber": "268",
+   "sector": 2,
+   "name": {
+    "en": "OUD AL MUTEENA",
+    "ar": "عود المطينة"
+   },
+   "nameDisplay": {
+    "en": "Oud Al Muteena",
+    "ar": "عود المطينة"
+   },
+   "centroid": [
+    55.44634,
+    25.27228
+   ],
+   "bbox": [
+    55.43929,
+    25.27016,
+    55.46106,
+    25.28061
+   ]
+  },
+  {
+   "communityNumber": "271",
+   "sector": 2,
+   "name": {
+    "en": "WADI ALAMARDI",
+    "ar": "وادي العمردي"
+   },
+   "nameDisplay": {
+    "en": "Wadi Alamardi",
+    "ar": "وادي العمردي"
+   },
+   "centroid": [
+    55.50042,
+    25.20065
+   ],
+   "bbox": [
+    55.46044,
+    25.17768,
+    55.53236,
+    25.22861
+   ]
+  },
+  {
+   "communityNumber": "281",
+   "sector": 2,
+   "name": {
+    "en": "AL KHWANEEJ FIRST",
+    "ar": "الخوانيج الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Khwaneej First",
+    "ar": "الخوانيج الأولى"
+   },
+   "centroid": [
+    55.48349,
+    25.2407
+   ],
+   "bbox": [
+    55.4649,
+    25.22296,
+    55.51223,
+    25.26968
+   ]
+  },
+  {
+   "communityNumber": "282",
+   "sector": 2,
+   "name": {
+    "en": "AL KHWANEEJ SECOND",
+    "ar": "الخوانيج الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Khwaneej Second",
+    "ar": "الخوانيج الثانية"
+   },
+   "centroid": [
+    55.52234,
+    25.23069
+   ],
+   "bbox": [
+    55.50318,
+    25.20702,
+    55.54936,
+    25.25284
+   ]
+  },
+  {
+   "communityNumber": "283",
+   "sector": 2,
+   "name": {
+    "en": "ALEYAS",
+    "ar": "العياص"
+   },
+   "nameDisplay": {
+    "en": "Aleyas",
+    "ar": "العياص"
+   },
+   "centroid": [
+    55.54058,
+    25.21023
+   ],
+   "bbox": [
+    55.51285,
+    25.1911,
+    55.5605,
+    25.2311
+   ]
+  },
+  {
+   "communityNumber": "284",
+   "sector": 2,
+   "name": {
+    "en": "AL TTAY",
+    "ar": "الطي"
+   },
+   "nameDisplay": {
+    "en": "Al Ttay",
+    "ar": "الطي"
+   },
+   "centroid": [
+    55.54301,
+    25.23792
+   ],
+   "bbox": [
+    55.51155,
+    25.2261,
+    55.56457,
+    25.25465
+   ]
+  },
+  {
+   "communityNumber": "302",
+   "sector": 3,
+   "name": {
+    "en": "JUMEIRA BAY",
+    "ar": "جميرا باي"
+   },
+   "nameDisplay": {
+    "en": "Jumeira Bay",
+    "ar": "جميرا باي"
+   },
+   "centroid": [
+    55.23819,
+    25.21156
+   ],
+   "bbox": [
+    55.22236,
+    25.2053,
+    55.24167,
+    25.22413
+   ]
+  },
+  {
+   "communityNumber": "303",
+   "sector": 3,
+   "name": {
+    "en": "WORLD ISLANDS",
+    "ar": "جزر العالم"
+   },
+   "nameDisplay": {
+    "en": "World Islands",
+    "ar": "جزر العالم"
+   },
+   "centroid": [
+    55.16503,
+    25.21886
+   ],
+   "bbox": [
+    55.11883,
+    25.18205,
+    55.20938,
+    25.27304
+   ]
+  },
+  {
+   "communityNumber": "304",
+   "sector": 3,
+   "name": {
+    "en": "JUMEIRA ISLAND 2",
+    "ar": "جزيرة جميرا الثانية"
+   },
+   "nameDisplay": {
+    "en": "Jumeira Island 2",
+    "ar": "جزيرة جميرا الثانية"
+   },
+   "centroid": [
+    55.2268,
+    25.19917
+   ],
+   "bbox": [
+    55.22367,
+    25.19581,
+    55.2289,
+    25.20066
+   ]
+  },
+  {
+   "communityNumber": "311",
+   "sector": 3,
+   "name": {
+    "en": "AL SHINDAGHA",
+    "ar": "الشندغة"
+   },
+   "nameDisplay": {
+    "en": "Al Shindagha",
+    "ar": "الشندغة"
+   },
+   "centroid": [
+    55.29166,
+    25.26877
+   ],
+   "bbox": [
+    55.28401,
+    25.26084,
+    55.29446,
+    25.27259
+   ]
+  },
+  {
+   "communityNumber": "312",
+   "sector": 3,
+   "name": {
+    "en": "AL SOUQ AL KABEER",
+    "ar": "السوق الكبير"
+   },
+   "nameDisplay": {
+    "en": "Al Souq Al Kabeer",
+    "ar": "السوق الكبير"
+   },
+   "centroid": [
+    55.29631,
+    25.26388
+   ],
+   "bbox": [
+    55.28433,
+    25.25825,
+    55.30138,
+    25.26596
+   ]
+  },
+  {
+   "communityNumber": "313",
+   "sector": 3,
+   "name": {
+    "en": "AL HAMRIYA",
+    "ar": "الحمرية"
+   },
+   "nameDisplay": {
+    "en": "Al Hamriya",
+    "ar": "الحمرية"
+   },
+   "centroid": [
+    55.30579,
+    25.26366
+   ],
+   "bbox": [
+    55.29755,
+    25.25481,
+    55.31066,
+    25.2657
+   ]
+  },
+  {
+   "communityNumber": "314",
+   "sector": 3,
+   "name": {
+    "en": "UMM HURAIR FIRST",
+    "ar": "أم هرير الأولى"
+   },
+   "nameDisplay": {
+    "en": "Umm Hurair First",
+    "ar": "أم هرير الأولى"
+   },
+   "centroid": [
+    55.31154,
+    25.25809
+   ],
+   "bbox": [
+    55.30427,
+    25.24776,
+    55.32054,
+    25.26042
+   ]
+  },
+  {
+   "communityNumber": "315",
+   "sector": 3,
+   "name": {
+    "en": "UMM HURAIR SECOND",
+    "ar": "أم هرير الثانية"
+   },
+   "nameDisplay": {
+    "en": "Umm Hurair Second",
+    "ar": "أم هرير الثانية"
+   },
+   "centroid": [
+    55.32764,
+    25.23838
+   ],
+   "bbox": [
+    55.31421,
+    25.22555,
+    55.3368,
+    25.25123
+   ]
+  },
+  {
+   "communityNumber": "316",
+   "sector": 3,
+   "name": {
+    "en": "AL RAFFA",
+    "ar": "الرفاعة"
+   },
+   "nameDisplay": {
+    "en": "Al Raffa",
+    "ar": "الرفاعة"
+   },
+   "centroid": [
+    55.28817,
+    25.2557
+   ],
+   "bbox": [
+    55.28038,
+    25.24659,
+    55.29755,
+    25.26084
+   ]
+  },
+  {
+   "communityNumber": "317",
+   "sector": 3,
+   "name": {
+    "en": "MANKHOOL",
+    "ar": "منخول"
+   },
+   "nameDisplay": {
+    "en": "Mankhool",
+    "ar": "منخول"
+   },
+   "centroid": [
+    55.2938,
+    25.2483
+   ],
+   "bbox": [
+    55.2849,
+    25.23974,
+    55.30427,
+    25.25825
+   ]
+  },
+  {
+   "communityNumber": "318",
+   "sector": 3,
+   "name": {
+    "en": "AL KARAMA",
+    "ar": "الكرامة"
+   },
+   "nameDisplay": {
+    "en": "Al Karama",
+    "ar": "الكرامة"
+   },
+   "centroid": [
+    55.30467,
+    25.24508
+   ],
+   "bbox": [
+    55.29536,
+    25.23468,
+    55.31421,
+    25.25481
+   ]
+  },
+  {
+   "communityNumber": "319",
+   "sector": 3,
+   "name": {
+    "en": "OUD METHA",
+    "ar": "عود ميثاء"
+   },
+   "nameDisplay": {
+    "en": "Oud Metha",
+    "ar": "عود ميثاء"
+   },
+   "centroid": [
+    55.31314,
+    25.23906
+   ],
+   "bbox": [
+    55.30499,
+    25.22874,
+    55.31737,
+    25.24776
+   ]
+  },
+  {
+   "communityNumber": "321",
+   "sector": 3,
+   "name": {
+    "en": "MADINAT DUBAI AL MELAHEYAH",
+    "ar": "مدينة دبي الملاحية"
+   },
+   "nameDisplay": {
+    "en": "Madinat Dubai Al Melaheyah",
+    "ar": "مدينة دبي الملاحية"
+   },
+   "centroid": [
+    55.28212,
+    25.26365
+   ],
+   "bbox": [
+    55.24867,
+    25.23904,
+    55.29425,
+    25.30949
+   ]
+  },
+  {
+   "communityNumber": "322",
+   "sector": 3,
+   "name": {
+    "en": "AL HUDAIBA",
+    "ar": "الحضيبة"
+   },
+   "nameDisplay": {
+    "en": "Al Hudaiba",
+    "ar": "الحضيبة"
+   },
+   "centroid": [
+    55.27924,
+    25.24261
+   ],
+   "bbox": [
+    55.27233,
+    25.23508,
+    55.2849,
+    25.24988
+   ]
+  },
+  {
+   "communityNumber": "323",
+   "sector": 3,
+   "name": {
+    "en": "AL JAFILIYA",
+    "ar": "الجافلية"
+   },
+   "nameDisplay": {
+    "en": "Al Jafiliya",
+    "ar": "الجافلية"
+   },
+   "centroid": [
+    55.287,
+    25.23894
+   ],
+   "bbox": [
+    55.27878,
+    25.22986,
+    55.29541,
+    25.24659
+   ]
+  },
+  {
+   "communityNumber": "324",
+   "sector": 3,
+   "name": {
+    "en": "AL KIFAF",
+    "ar": "الكفاف"
+   },
+   "nameDisplay": {
+    "en": "Al Kifaf",
+    "ar": "الكفاف"
+   },
+   "centroid": [
+    55.29702,
+    25.23434
+   ],
+   "bbox": [
+    55.28962,
+    25.22986,
+    55.30499,
+    25.23966
+   ]
+  },
+  {
+   "communityNumber": "325",
+   "sector": 3,
+   "name": {
+    "en": "ZAA'BEEL FIRST",
+    "ar": "زعبيل الأولى"
+   },
+   "nameDisplay": {
+    "en": "Zaa'beel First",
+    "ar": "زعبيل الأولى"
+   },
+   "centroid": [
+    55.30543,
+    25.22306
+   ],
+   "bbox": [
+    55.28962,
+    25.208,
+    55.31641,
+    25.23468
+   ]
+  },
+  {
+   "communityNumber": "326",
+   "sector": 3,
+   "name": {
+    "en": "AL JADAF",
+    "ar": "الجداف"
+   },
+   "nameDisplay": {
+    "en": "Al Jadaf",
+    "ar": "الجداف"
+   },
+   "centroid": [
+    55.32739,
+    25.21429
+   ],
+   "bbox": [
+    55.30894,
+    25.19628,
+    55.34563,
+    25.23189
+   ]
+  },
+  {
+   "communityNumber": "332",
+   "sector": 3,
+   "name": {
+    "en": "JUMEIRA FIRST",
+    "ar": "جميرا الأولى"
+   },
+   "nameDisplay": {
+    "en": "Jumeira First",
+    "ar": "جميرا الأولى"
+   },
+   "centroid": [
+    55.25196,
+    25.21994
+   ],
+   "bbox": [
+    55.23333,
+    25.20689,
+    55.2725,
+    25.25108
+   ]
+  },
+  {
+   "communityNumber": "333",
+   "sector": 3,
+   "name": {
+    "en": "AL BADA'",
+    "ar": "البدع"
+   },
+   "nameDisplay": {
+    "en": "Al Bada'",
+    "ar": "البدع"
+   },
+   "centroid": [
+    55.26876,
+    25.22546
+   ],
+   "bbox": [
+    55.25725,
+    25.21006,
+    55.27893,
+    25.23895
+   ]
+  },
+  {
+   "communityNumber": "334",
+   "sector": 3,
+   "name": {
+    "en": "AL SATWA",
+    "ar": "السطوة"
+   },
+   "nameDisplay": {
+    "en": "Al Satwa",
+    "ar": "السطوة"
+   },
+   "centroid": [
+    55.27428,
+    25.22005
+   ],
+   "bbox": [
+    55.26107,
+    25.20582,
+    55.28614,
+    25.23508
+   ]
+  },
+  {
+   "communityNumber": "335",
+   "sector": 3,
+   "name": {
+    "en": "TRADE CENTER FIRST",
+    "ar": "المركز التجاري الأولى"
+   },
+   "nameDisplay": {
+    "en": "Trade Center First",
+    "ar": "المركز التجاري الأولى"
+   },
+   "centroid": [
+    55.27809,
+    25.21794
+   ],
+   "bbox": [
+    55.26902,
+    25.2049,
+    55.28962,
+    25.23119
+   ]
+  },
+  {
+   "communityNumber": "336",
+   "sector": 3,
+   "name": {
+    "en": "TRADE CENTER SECOND",
+    "ar": "المركز التجاري الثانية"
+   },
+   "nameDisplay": {
+    "en": "Trade Center Second",
+    "ar": "المركز التجاري الثانية"
+   },
+   "centroid": [
+    55.28034,
+    25.21377
+   ],
+   "bbox": [
+    55.27085,
+    25.20122,
+    55.29237,
+    25.22986
+   ]
+  },
+  {
+   "communityNumber": "337",
+   "sector": 3,
+   "name": {
+    "en": "ZAA'BEEL SECOND",
+    "ar": "زعبيل الثانية"
+   },
+   "nameDisplay": {
+    "en": "Zaa'beel Second",
+    "ar": "زعبيل الثانية"
+   },
+   "centroid": [
+    55.29833,
+    25.19894
+   ],
+   "bbox": [
+    55.27369,
+    25.17999,
+    55.31654,
+    25.22553
+   ]
+  },
+  {
+   "communityNumber": "342",
+   "sector": 3,
+   "name": {
+    "en": "JUMEIRA SECOND",
+    "ar": "جميرا الثانية"
+   },
+   "nameDisplay": {
+    "en": "Jumeira Second",
+    "ar": "جميرا الثانية"
+   },
+   "centroid": [
+    55.23787,
+    25.20211
+   ],
+   "bbox": [
+    55.22631,
+    25.18845,
+    55.25369,
+    25.21337
+   ]
+  },
+  {
+   "communityNumber": "343",
+   "sector": 3,
+   "name": {
+    "en": "AL WASL",
+    "ar": "الوصل"
+   },
+   "nameDisplay": {
+    "en": "Al Wasl",
+    "ar": "الوصل"
+   },
+   "centroid": [
+    55.25367,
+    25.19703
+   ],
+   "bbox": [
+    55.23987,
+    25.1801,
+    55.27085,
+    25.21209
+   ]
+  },
+  {
+   "communityNumber": "345",
+   "sector": 3,
+   "name": {
+    "en": "BURJ KHALIFA",
+    "ar": "برج خليفة"
+   },
+   "nameDisplay": {
+    "en": "Burj Khalifa",
+    "ar": "برج خليفة"
+   },
+   "centroid": [
+    55.27814,
+    25.19009
+   ],
+   "bbox": [
+    55.26448,
+    25.18515,
+    55.28901,
+    25.2049
+   ]
+  },
+  {
+   "communityNumber": "346",
+   "sector": 3,
+   "name": {
+    "en": "BUSINESS BAY",
+    "ar": "الخليج التجاري"
+   },
+   "nameDisplay": {
+    "en": "Business Bay",
+    "ar": "الخليج التجاري"
+   },
+   "centroid": [
+    55.27992,
+    25.18765
+   ],
+   "bbox": [
+    55.24955,
+    25.16839,
+    55.29409,
+    25.19641
+   ]
+  },
+  {
+   "communityNumber": "347",
+   "sector": 3,
+   "name": {
+    "en": "AL MERKADH",
+    "ar": "المركاض"
+   },
+   "nameDisplay": {
+    "en": "Al Merkadh",
+    "ar": "المركاض"
+   },
+   "centroid": [
+    55.29257,
+    25.16979
+   ],
+   "bbox": [
+    55.26742,
+    25.1519,
+    55.32403,
+    25.18318
+   ]
+  },
+  {
+   "communityNumber": "352",
+   "sector": 3,
+   "name": {
+    "en": "JUMEIRA THIRD",
+    "ar": "جميرا الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Jumeira Third",
+    "ar": "جميرا الثالثة"
+   },
+   "centroid": [
+    55.22601,
+    25.18771
+   ],
+   "bbox": [
+    55.21651,
+    25.16964,
+    55.24101,
+    25.1976
+   ]
+  },
+  {
+   "communityNumber": "353",
+   "sector": 3,
+   "name": {
+    "en": "AL SAFA FIRST",
+    "ar": "الصفا الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Safa First",
+    "ar": "الصفا الأولى"
+   },
+   "centroid": [
+    55.23833,
+    25.17594
+   ],
+   "bbox": [
+    55.22766,
+    25.16442,
+    55.24944,
+    25.18687
+   ]
+  },
+  {
+   "communityNumber": "354",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ FIRST",
+    "ar": "القوز الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz First",
+    "ar": "القوز الأولى"
+   },
+   "centroid": [
+    55.25463,
+    25.16478
+   ],
+   "bbox": [
+    55.23963,
+    25.15847,
+    55.26747,
+    25.18022
+   ]
+  },
+  {
+   "communityNumber": "355",
+   "sector": 3,
+   "name": {
+    "en": "GHADEER AL TAIR",
+    "ar": "غدير الطير"
+   },
+   "nameDisplay": {
+    "en": "Ghadeer Al Tair",
+    "ar": "غدير الطير"
+   },
+   "centroid": [
+    55.27034,
+    25.15441
+   ],
+   "bbox": [
+    55.26106,
+    25.13737,
+    55.28237,
+    25.16834
+   ]
+  },
+  {
+   "communityNumber": "356",
+   "sector": 3,
+   "name": {
+    "en": "UMM SUQEIM FIRST",
+    "ar": "أم سقيم الأولى"
+   },
+   "nameDisplay": {
+    "en": "Umm Suqeim First",
+    "ar": "أم سقيم الأولى"
+   },
+   "centroid": [
+    55.20806,
+    25.17207
+   ],
+   "bbox": [
+    55.19123,
+    25.15469,
+    55.22766,
+    25.19155
+   ]
+  },
+  {
+   "communityNumber": "357",
+   "sector": 3,
+   "name": {
+    "en": "AL SAFA SECOND",
+    "ar": "الصفا الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Safa Second",
+    "ar": "الصفا الثانية"
+   },
+   "centroid": [
+    55.226,
+    25.16
+   ],
+   "bbox": [
+    55.21594,
+    25.14934,
+    55.23494,
+    25.16964
+   ]
+  },
+  {
+   "communityNumber": "358",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ THIRD",
+    "ar": "القوز الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Third",
+    "ar": "القوز الثالثة"
+   },
+   "centroid": [
+    55.24116,
+    25.15973
+   ],
+   "bbox": [
+    55.23021,
+    25.15059,
+    55.2529,
+    25.16949
+   ]
+  },
+  {
+   "communityNumber": "359",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ FOURTH",
+    "ar": "القوز الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Fourth",
+    "ar": "القوز الرابعة"
+   },
+   "centroid": [
+    55.25393,
+    25.15212
+   ],
+   "bbox": [
+    55.24288,
+    25.14417,
+    55.26166,
+    25.15946
+   ]
+  },
+  {
+   "communityNumber": "362",
+   "sector": 3,
+   "name": {
+    "en": "UMM SUQEIM SECOND",
+    "ar": "أم سقيم الثانية"
+   },
+   "nameDisplay": {
+    "en": "Umm Suqeim Second",
+    "ar": "أم سقيم الثانية"
+   },
+   "centroid": [
+    55.19246,
+    25.15412
+   ],
+   "bbox": [
+    55.18853,
+    25.1401,
+    55.21594,
+    25.16208
+   ]
+  },
+  {
+   "communityNumber": "363",
+   "sector": 3,
+   "name": {
+    "en": "AL MANARA",
+    "ar": "المنارة"
+   },
+   "nameDisplay": {
+    "en": "Al Manara",
+    "ar": "المنارة"
+   },
+   "centroid": [
+    55.21424,
+    25.14376
+   ],
+   "bbox": [
+    55.20447,
+    25.13373,
+    55.22399,
+    25.15469
+   ]
+  },
+  {
+   "communityNumber": "364",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ IND.FIRST",
+    "ar": "القوز الصناعية الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Ind.first",
+    "ar": "القوز الصناعية الأولى"
+   },
+   "centroid": [
+    55.23229,
+    25.14544
+   ],
+   "bbox": [
+    55.21794,
+    25.12998,
+    55.24692,
+    25.15901
+   ]
+  },
+  {
+   "communityNumber": "365",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ IND.SECOND",
+    "ar": "القوز الصناعية الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Ind.second",
+    "ar": "القوز الصناعية الثانية"
+   },
+   "centroid": [
+    55.24916,
+    25.13602
+   ],
+   "bbox": [
+    55.23253,
+    25.11941,
+    55.26106,
+    25.1479
+   ]
+  },
+  {
+   "communityNumber": "366",
+   "sector": 3,
+   "name": {
+    "en": "UMM SUQEIM THIRD",
+    "ar": "أم سقيم الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Umm Suqeim Third",
+    "ar": "أم سقيم الثالثة"
+   },
+   "centroid": [
+    55.1873,
+    25.1428
+   ],
+   "bbox": [
+    55.18241,
+    25.12804,
+    55.20447,
+    25.1493
+   ]
+  },
+  {
+   "communityNumber": "367",
+   "sector": 3,
+   "name": {
+    "en": "UMM AL SHEIF",
+    "ar": "أم الشيف"
+   },
+   "nameDisplay": {
+    "en": "Umm Al Sheif",
+    "ar": "أم الشيف"
+   },
+   "centroid": [
+    55.20574,
+    25.13131
+   ],
+   "bbox": [
+    55.19504,
+    25.12306,
+    55.21424,
+    25.1401
+   ]
+  },
+  {
+   "communityNumber": "368",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ IND.THIRD",
+    "ar": "القوز الصناعية الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Ind.third",
+    "ar": "القوز الصناعية الثالثة"
+   },
+   "centroid": [
+    55.21711,
+    25.12649
+   ],
+   "bbox": [
+    55.20201,
+    25.11223,
+    55.23253,
+    25.13966
+   ]
+  },
+  {
+   "communityNumber": "369",
+   "sector": 3,
+   "name": {
+    "en": "AL QOUZ IND.FOURTH",
+    "ar": "القوز الصناعية الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Qouz Ind.fourth",
+    "ar": "القوز الصناعية الرابعة"
+   },
+   "centroid": [
+    55.2329,
+    25.1164
+   ],
+   "bbox": [
+    55.21821,
+    25.10235,
+    55.24838,
+    25.12998
+   ]
+  },
+  {
+   "communityNumber": "372",
+   "sector": 3,
+   "name": {
+    "en": "AL SAFOUH FIRST",
+    "ar": "الصفوح الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Safouh First",
+    "ar": "الصفوح الأولى"
+   },
+   "centroid": [
+    55.17847,
+    25.12321
+   ],
+   "bbox": [
+    55.16573,
+    25.10534,
+    55.20201,
+    25.13685
+   ]
+  },
+  {
+   "communityNumber": "373",
+   "sector": 3,
+   "name": {
+    "en": "AL BARSHA FIRST",
+    "ar": "البرشاء الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha First",
+    "ar": "البرشاء الأولى"
+   },
+   "centroid": [
+    55.19251,
+    25.10858
+   ],
+   "bbox": [
+    55.1769,
+    25.09717,
+    55.21159,
+    25.12306
+   ]
+  },
+  {
+   "communityNumber": "375",
+   "sector": 3,
+   "name": {
+    "en": "AL BARSHA THIRD",
+    "ar": "البرشاء الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha Third",
+    "ar": "البرشاء الثالثة"
+   },
+   "centroid": [
+    55.19821,
+    25.09408
+   ],
+   "bbox": [
+    55.18194,
+    25.07693,
+    55.21719,
+    25.10572
+   ]
+  },
+  {
+   "communityNumber": "376",
+   "sector": 3,
+   "name": {
+    "en": "AL BARSHA SECOND",
+    "ar": "البرشاء الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha Second",
+    "ar": "البرشاء الثانية"
+   },
+   "centroid": [
+    55.2112,
+    25.10043
+   ],
+   "bbox": [
+    55.19927,
+    25.08472,
+    55.23303,
+    25.11667
+   ]
+  },
+  {
+   "communityNumber": "381",
+   "sector": 3,
+   "name": {
+    "en": "NAKHLAT JUMEIRA",
+    "ar": "نخلة جميرا"
+   },
+   "nameDisplay": {
+    "en": "Nakhlat Jumeira",
+    "ar": "نخلة جميرا"
+   },
+   "centroid": [
+    55.13074,
+    25.0985
+   ],
+   "bbox": [
+    55.09814,
+    25.09281,
+    55.16291,
+    25.14901
+   ]
+  },
+  {
+   "communityNumber": "382",
+   "sector": 3,
+   "name": {
+    "en": "AL SAFOUH SECOND",
+    "ar": "الصفوح الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Safouh Second",
+    "ar": "الصفوح الثانية"
+   },
+   "centroid": [
+    55.16333,
+    25.10104
+   ],
+   "bbox": [
+    55.14804,
+    25.0869,
+    55.1769,
+    25.1158
+   ]
+  },
+  {
+   "communityNumber": "383",
+   "sector": 3,
+   "name": {
+    "en": "AL THANYAH FIRST",
+    "ar": "الثنيه الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Thanyah First",
+    "ar": "الثنيه الأولى"
+   },
+   "centroid": [
+    55.17772,
+    25.09737
+   ],
+   "bbox": [
+    55.16876,
+    25.09125,
+    55.18209,
+    25.10534
+   ]
+  },
+  {
+   "communityNumber": "384",
+   "sector": 3,
+   "name": {
+    "en": "AL THANYAH SECOND",
+    "ar": "الثنيه الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Thanyah Second",
+    "ar": "الثنيه الثانية"
+   },
+   "centroid": [
+    55.1865,
+    25.08748
+   ],
+   "bbox": [
+    55.17285,
+    25.06366,
+    55.21024,
+    25.09698
+   ]
+  },
+  {
+   "communityNumber": "388",
+   "sector": 3,
+   "name": {
+    "en": "AL THANYAH THIRD",
+    "ar": "الثنيه الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Thanyah Third",
+    "ar": "الثنيه الثالثة"
+   },
+   "centroid": [
+    55.16448,
+    25.08431
+   ],
+   "bbox": [
+    55.15213,
+    25.07512,
+    55.17857,
+    25.09845
+   ]
+  },
+  {
+   "communityNumber": "392",
+   "sector": 3,
+   "name": {
+    "en": "MARSA DUBAI",
+    "ar": "مرسى دبي"
+   },
+   "nameDisplay": {
+    "en": "Marsa Dubai",
+    "ar": "مرسى دبي"
+   },
+   "centroid": [
+    55.1308,
+    25.09552
+   ],
+   "bbox": [
+    55.11709,
+    25.06474,
+    55.15515,
+    25.10455
+   ]
+  },
+  {
+   "communityNumber": "393",
+   "sector": 3,
+   "name": {
+    "en": "AL THANYAH FIFTH",
+    "ar": "الثنيه الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Thanyah Fifth",
+    "ar": "الثنيه الخامسة"
+   },
+   "centroid": [
+    55.15329,
+    25.06194
+   ],
+   "bbox": [
+    55.1327,
+    25.03075,
+    55.17604,
+    25.08432
+   ]
+  },
+  {
+   "communityNumber": "394",
+   "sector": 3,
+   "name": {
+    "en": "AL THANYAH FOURTH",
+    "ar": "الثنيه الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Thanyah Fourth",
+    "ar": "الثنيه الرابعة"
+   },
+   "centroid": [
+    55.16238,
+    25.06376
+   ],
+   "bbox": [
+    55.14643,
+    25.03915,
+    55.19823,
+    25.07942
+   ]
+  },
+  {
+   "communityNumber": "412",
+   "sector": 4,
+   "name": {
+    "en": "AL KHEERAN",
+    "ar": "الخيران"
+   },
+   "nameDisplay": {
+    "en": "Al Kheeran",
+    "ar": "الخيران"
+   },
+   "centroid": [
+    55.35865,
+    25.2217
+   ],
+   "bbox": [
+    55.33847,
+    25.20081,
+    55.37645,
+    25.24099
+   ]
+  },
+  {
+   "communityNumber": "413",
+   "sector": 4,
+   "name": {
+    "en": "RAS AL KHOR",
+    "ar": "راس الخور"
+   },
+   "nameDisplay": {
+    "en": "Ras Al Khor",
+    "ar": "راس الخور"
+   },
+   "centroid": [
+    55.32844,
+    25.19771
+   ],
+   "bbox": [
+    55.30923,
+    25.17999,
+    55.34647,
+    25.21091
+   ]
+  },
+  {
+   "communityNumber": "415",
+   "sector": 4,
+   "name": {
+    "en": "AL KHEERAN FIRST",
+    "ar": "الخيران الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Kheeran First",
+    "ar": "الخيران الأولى"
+   },
+   "centroid": [
+    55.36007,
+    25.19578
+   ],
+   "bbox": [
+    55.33931,
+    25.18492,
+    55.37541,
+    25.2111
+   ]
+  },
+  {
+   "communityNumber": "416",
+   "sector": 4,
+   "name": {
+    "en": "NADD AL HAMAR",
+    "ar": "ند الحمر"
+   },
+   "nameDisplay": {
+    "en": "Nadd Al Hamar",
+    "ar": "ند الحمر"
+   },
+   "centroid": [
+    55.38443,
+    25.20201
+   ],
+   "bbox": [
+    55.37084,
+    25.18002,
+    55.40279,
+    25.21747
+   ]
+  },
+  {
+   "communityNumber": "421",
+   "sector": 4,
+   "name": {
+    "en": "AL WARQA'A FIRST",
+    "ar": "الورقاء الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Warqa'a First",
+    "ar": "الورقاء الأولى"
+   },
+   "centroid": [
+    55.40634,
+    25.18887
+   ],
+   "bbox": [
+    55.39665,
+    25.17784,
+    55.40983,
+    25.1985
+   ]
+  },
+  {
+   "communityNumber": "422",
+   "sector": 4,
+   "name": {
+    "en": "AL WARQA'A SECOND",
+    "ar": "الورقاء الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Warqa'a Second",
+    "ar": "الورقاء الثانية"
+   },
+   "centroid": [
+    55.41091,
+    25.19894
+   ],
+   "bbox": [
+    55.39682,
+    25.19129,
+    55.42101,
+    25.21234
+   ]
+  },
+  {
+   "communityNumber": "423",
+   "sector": 4,
+   "name": {
+    "en": "AL WARQA'A THIRD",
+    "ar": "الورقاء الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Warqa'a Third",
+    "ar": "الورقاء الثالثة"
+   },
+   "centroid": [
+    55.42093,
+    25.19293
+   ],
+   "bbox": [
+    55.4084,
+    25.17417,
+    55.43948,
+    25.20877
+   ]
+  },
+  {
+   "communityNumber": "424",
+   "sector": 4,
+   "name": {
+    "en": "AL WARQA'A FOURTH",
+    "ar": "الورقاء الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Warqa'a Fourth",
+    "ar": "الورقاء الرابعة"
+   },
+   "centroid": [
+    55.44018,
+    25.19077
+   ],
+   "bbox": [
+    55.4274,
+    25.17133,
+    55.44985,
+    25.2026
+   ]
+  },
+  {
+   "communityNumber": "425",
+   "sector": 4,
+   "name": {
+    "en": "AL WARQA'A FIFTH",
+    "ar": "الورقاء الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Warqa'a Fifth",
+    "ar": "الورقاء الخامسة"
+   },
+   "centroid": [
+    55.45307,
+    25.18608
+   ],
+   "bbox": [
+    55.44273,
+    25.16804,
+    55.46454,
+    25.19303
+   ]
+  },
+  {
+   "communityNumber": "431",
+   "sector": 4,
+   "name": {
+    "en": "AL ATHBAH",
+    "ar": "العذبة"
+   },
+   "nameDisplay": {
+    "en": "Al Athbah",
+    "ar": "العذبة"
+   },
+   "centroid": [
+    55.48576,
+    25.17583
+   ],
+   "bbox": [
+    55.46006,
+    25.16444,
+    55.51506,
+    25.18982
+   ]
+  },
+  {
+   "communityNumber": "501",
+   "sector": 5,
+   "name": {
+    "en": "NAKHLAT JABAL ALI",
+    "ar": "نخلة جبل علي"
+   },
+   "nameDisplay": {
+    "en": "Nakhlat Jabal Ali",
+    "ar": "نخلة جبل علي"
+   },
+   "centroid": [
+    54.96131,
+    25.01966
+   ],
+   "bbox": [
+    54.94331,
+    24.9695,
+    55.03563,
+    25.04497
+   ]
+  },
+  {
+   "communityNumber": "502",
+   "sector": 5,
+   "name": {
+    "en": "AL WAJEHA AL BAHRIAH",
+    "ar": "الواجهة البحرية"
+   },
+   "nameDisplay": {
+    "en": "Al Wajeha Al Bahriah",
+    "ar": "الواجهة البحرية"
+   },
+   "centroid": [
+    54.94816,
+    25.01178
+   ],
+   "bbox": [
+    54.84599,
+    24.92207,
+    54.98347,
+    25.05291
+   ]
+  },
+  {
+   "communityNumber": "511",
+   "sector": 5,
+   "name": {
+    "en": "HESSYAN FIRST",
+    "ar": "حصيان الأولى"
+   },
+   "nameDisplay": {
+    "en": "Hessyan First",
+    "ar": "حصيان الأولى"
+   },
+   "centroid": [
+    55.02473,
+    24.96927
+   ],
+   "bbox": [
+    54.98893,
+    24.92906,
+    55.06236,
+    24.98828
+   ]
+  },
+  {
+   "communityNumber": "512",
+   "sector": 5,
+   "name": {
+    "en": "HESSYAN SECOND",
+    "ar": "حصيان الثانية"
+   },
+   "nameDisplay": {
+    "en": "Hessyan Second",
+    "ar": "حصيان الثانية"
+   },
+   "centroid": [
+    54.93741,
+    24.94136
+   ],
+   "bbox": [
+    54.85171,
+    24.89762,
+    55.0102,
+    24.97383
+   ]
+  },
+  {
+   "communityNumber": "513",
+   "sector": 5,
+   "name": {
+    "en": "SAIH SHUAIB 1",
+    "ar": "سيح شعيب 1"
+   },
+   "nameDisplay": {
+    "en": "Saih Shuaib 1",
+    "ar": "سيح شعيب 1"
+   },
+   "centroid": [
+    54.99105,
+    24.90284
+   ],
+   "bbox": [
+    54.94038,
+    24.85906,
+    55.06077,
+    24.92906
+   ]
+  },
+  {
+   "communityNumber": "516",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI INDUSTRIAL THIRD",
+    "ar": "جبل علي الصناعية الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali Industrial Third",
+    "ar": "جبل علي الصناعية الثالثة"
+   },
+   "centroid": [
+    55.06836,
+    24.91263
+   ],
+   "bbox": [
+    55.0102,
+    24.89184,
+    55.10391,
+    24.94702
+   ]
+  },
+  {
+   "communityNumber": "518",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI INDUSTRIAL SECOND",
+    "ar": "جبل علي الصناعية الثانية"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali Industrial Second",
+    "ar": "جبل علي الصناعية الثانية"
+   },
+   "centroid": [
+    55.10599,
+    24.95833
+   ],
+   "bbox": [
+    55.06236,
+    24.91959,
+    55.14227,
+    24.98763
+   ]
+  },
+  {
+   "communityNumber": "521",
+   "sector": 5,
+   "name": {
+    "en": "MADINAT AL MATAAR",
+    "ar": "مدينة المطار"
+   },
+   "nameDisplay": {
+    "en": "Madinat Al Mataar",
+    "ar": "مدينة المطار"
+   },
+   "centroid": [
+    55.18017,
+    24.91877
+   ],
+   "bbox": [
+    55.07216,
+    24.82601,
+    55.23444,
+    24.97498
+   ]
+  },
+  {
+   "communityNumber": "531",
+   "sector": 5,
+   "name": {
+    "en": "SAIH SHUAIB 2",
+    "ar": "سيح شعيب 2"
+   },
+   "nameDisplay": {
+    "en": "Saih Shuaib 2",
+    "ar": "سيح شعيب 2"
+   },
+   "centroid": [
+    55.0501,
+    24.87314
+   ],
+   "bbox": [
+    55.00949,
+    24.83957,
+    55.09362,
+    24.89911
+   ]
+  },
+  {
+   "communityNumber": "532",
+   "sector": 5,
+   "name": {
+    "en": "SAIH SHUAIB 3",
+    "ar": "سيح شعيب 3"
+   },
+   "nameDisplay": {
+    "en": "Saih Shuaib 3",
+    "ar": "سيح شعيب 3"
+   },
+   "centroid": [
+    55.06495,
+    24.83979
+   ],
+   "bbox": [
+    55.04427,
+    24.82105,
+    55.10942,
+    24.87144
+   ]
+  },
+  {
+   "communityNumber": "533",
+   "sector": 5,
+   "name": {
+    "en": "SAIH SHUAIB 4",
+    "ar": "سيح شعيب 4"
+   },
+   "nameDisplay": {
+    "en": "Saih Shuaib 4",
+    "ar": "سيح شعيب 4"
+   },
+   "centroid": [
+    55.10547,
+    24.81211
+   ],
+   "bbox": [
+    55.06294,
+    24.79659,
+    55.12883,
+    24.85106
+   ]
+  },
+  {
+   "communityNumber": "591",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI FIRST",
+    "ar": "جبل علي الأولى"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali First",
+    "ar": "جبل علي الأولى"
+   },
+   "centroid": [
+    55.14228,
+    25.0321
+   ],
+   "bbox": [
+    55.09807,
+    25.01668,
+    55.17034,
+    25.06475
+   ]
+  },
+  {
+   "communityNumber": "592",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI SECOND",
+    "ar": "جبل علي الثانية"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali Second",
+    "ar": "جبل علي الثانية"
+   },
+   "centroid": [
+    55.11548,
+    25.0589
+   ],
+   "bbox": [
+    55.09765,
+    25.03674,
+    55.13269,
+    25.07151
+   ]
+  },
+  {
+   "communityNumber": "593",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI THIRD",
+    "ar": "جبل علي الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali Third",
+    "ar": "جبل علي الثالثة"
+   },
+   "centroid": [
+    55.04189,
+    25.02143
+   ],
+   "bbox": [
+    54.77017,
+    24.97189,
+    55.10948,
+    25.25182
+   ]
+  },
+  {
+   "communityNumber": "594",
+   "sector": 5,
+   "name": {
+    "en": "MENA JABAL ALI",
+    "ar": "ميناء جبل علي"
+   },
+   "nameDisplay": {
+    "en": "Mena Jabal Ali",
+    "ar": "ميناء جبل علي"
+   },
+   "centroid": [
+    55.04337,
+    24.98948
+   ],
+   "bbox": [
+    55.0191,
+    24.94702,
+    55.09686,
+    25.02337
+   ]
+  },
+  {
+   "communityNumber": "597",
+   "sector": 5,
+   "name": {
+    "en": "DUBAI INVESTMENT PARK SECOND",
+    "ar": "مجمع دبي للاستثمار الثاني"
+   },
+   "nameDisplay": {
+    "en": "Dubai Investment Park Second",
+    "ar": "مجمع دبي للاستثمار الثاني"
+   },
+   "centroid": [
+    55.20979,
+    24.97554
+   ],
+   "bbox": [
+    55.182,
+    24.95377,
+    55.24075,
+    24.99619
+   ]
+  },
+  {
+   "communityNumber": "598",
+   "sector": 5,
+   "name": {
+    "en": "DUBAI INVESTMENT PARK FIRST",
+    "ar": "مجمع دبي للاستثمار الأول"
+   },
+   "nameDisplay": {
+    "en": "Dubai Investment Park First",
+    "ar": "مجمع دبي للاستثمار الأول"
+   },
+   "centroid": [
+    55.1666,
+    24.99225
+   ],
+   "bbox": [
+    55.14227,
+    24.96444,
+    55.18786,
+    25.01728
+   ]
+  },
+  {
+   "communityNumber": "599",
+   "sector": 5,
+   "name": {
+    "en": "JABAL ALI INDUSTRIAL FIRST",
+    "ar": "جبل علي الصناعية الأولى"
+   },
+   "nameDisplay": {
+    "en": "Jabal Ali Industrial First",
+    "ar": "جبل علي الصناعية الأولى"
+   },
+   "centroid": [
+    55.13033,
+    25.00156
+   ],
+   "bbox": [
+    55.09303,
+    24.97498,
+    55.15815,
+    25.01831
+   ]
+  },
+  {
+   "communityNumber": "611",
+   "sector": 6,
+   "name": {
+    "en": "BU KADRA",
+    "ar": "بو كدرة"
+   },
+   "nameDisplay": {
+    "en": "Bu Kadra",
+    "ar": "بو كدرة"
+   },
+   "centroid": [
+    55.32738,
+    25.17514
+   ],
+   "bbox": [
+    55.31654,
+    25.16818,
+    55.33267,
+    25.18489
+   ]
+  },
+  {
+   "communityNumber": "612",
+   "sector": 6,
+   "name": {
+    "en": "RAS AL KHOR IND. FIRST",
+    "ar": "رأس الخور الصناعية الأولى"
+   },
+   "nameDisplay": {
+    "en": "Ras Al Khor Ind. First",
+    "ar": "رأس الخور الصناعية الأولى"
+   },
+   "centroid": [
+    55.33634,
+    25.17765
+   ],
+   "bbox": [
+    55.32936,
+    25.16926,
+    55.34647,
+    25.18543
+   ]
+  },
+  {
+   "communityNumber": "613",
+   "sector": 6,
+   "name": {
+    "en": "RAS AL KHOR IND. SECOND",
+    "ar": "رأس الخور الصناعية الثانية"
+   },
+   "nameDisplay": {
+    "en": "Ras Al Khor Ind. Second",
+    "ar": "رأس الخور الصناعية الثانية"
+   },
+   "centroid": [
+    55.35779,
+    25.17756
+   ],
+   "bbox": [
+    55.34593,
+    25.16802,
+    55.37107,
+    25.18586
+   ]
+  },
+  {
+   "communityNumber": "614",
+   "sector": 6,
+   "name": {
+    "en": "RAS AL KHOR IND. THIRD",
+    "ar": "رأس الخور الصناعية الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Ras Al Khor Ind. Third",
+    "ar": "رأس الخور الصناعية الثالثة"
+   },
+   "centroid": [
+    55.38205,
+    25.173
+   ],
+   "bbox": [
+    55.36586,
+    25.16052,
+    55.39707,
+    25.18492
+   ]
+  },
+  {
+   "communityNumber": "615",
+   "sector": 6,
+   "name": {
+    "en": "NADD AL SHIBA SECOND",
+    "ar": "ند الشبا الثانية"
+   },
+   "nameDisplay": {
+    "en": "Nadd Al Shiba Second",
+    "ar": "ند الشبا الثانية"
+   },
+   "centroid": [
+    55.34497,
+    25.16044
+   ],
+   "bbox": [
+    55.32595,
+    25.14201,
+    55.36586,
+    25.16972
+   ]
+  },
+  {
+   "communityNumber": "616",
+   "sector": 6,
+   "name": {
+    "en": "NADD AL SHIBA THIRD",
+    "ar": "ند الشبا الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Nadd Al Shiba Third",
+    "ar": "ند الشبا الثالثة"
+   },
+   "centroid": [
+    55.37574,
+    25.15523
+   ],
+   "bbox": [
+    55.36154,
+    25.13869,
+    55.39111,
+    25.16802
+   ]
+  },
+  {
+   "communityNumber": "617",
+   "sector": 6,
+   "name": {
+    "en": "NADD AL SHIBA FOURTH",
+    "ar": "ند الشبا الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Nadd Al Shiba Fourth",
+    "ar": "ند الشبا الرابعة"
+   },
+   "centroid": [
+    55.36493,
+    25.13651
+   ],
+   "bbox": [
+    55.34637,
+    25.1199,
+    55.38197,
+    25.15144
+   ]
+  },
+  {
+   "communityNumber": "618",
+   "sector": 6,
+   "name": {
+    "en": "NADD AL SHIBA FIRST",
+    "ar": "ند الشبا الأولى"
+   },
+   "nameDisplay": {
+    "en": "Nadd Al Shiba First",
+    "ar": "ند الشبا الأولى"
+   },
+   "centroid": [
+    55.30519,
+    25.14714
+   ],
+   "bbox": [
+    55.28062,
+    25.11922,
+    55.35098,
+    25.17064
+   ]
+  },
+  {
+   "communityNumber": "621",
+   "sector": 6,
+   "name": {
+    "en": "WARSAN FIRST",
+    "ar": "ورسان الأولى"
+   },
+   "nameDisplay": {
+    "en": "Warsan First",
+    "ar": "ورسان الأولى"
+   },
+   "centroid": [
+    55.41227,
+    25.15883
+   ],
+   "bbox": [
+    55.39111,
+    25.14915,
+    55.42761,
+    25.18002
+   ]
+  },
+  {
+   "communityNumber": "622",
+   "sector": 6,
+   "name": {
+    "en": "WARSAN SECOND",
+    "ar": "ورسان الثانية"
+   },
+   "nameDisplay": {
+    "en": "Warsan Second",
+    "ar": "ورسان الثانية"
+   },
+   "centroid": [
+    55.42976,
+    25.15436
+   ],
+   "bbox": [
+    55.4171,
+    25.1389,
+    55.46006,
+    25.17419
+   ]
+  },
+  {
+   "communityNumber": "624",
+   "sector": 6,
+   "name": {
+    "en": "WARSAN FOURTH",
+    "ar": "ورسان الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Warsan Fourth",
+    "ar": "ورسان الرابعة"
+   },
+   "centroid": [
+    55.40632,
+    25.14378
+   ],
+   "bbox": [
+    55.385,
+    25.12523,
+    55.42683,
+    25.16052
+   ]
+  },
+  {
+   "communityNumber": "626",
+   "sector": 6,
+   "name": {
+    "en": "NADD HESSA",
+    "ar": "ند حصه"
+   },
+   "nameDisplay": {
+    "en": "Nadd Hessa",
+    "ar": "ند حصه"
+   },
+   "centroid": [
+    55.38896,
+    25.12845
+   ],
+   "bbox": [
+    55.36494,
+    25.1034,
+    55.40823,
+    25.14563
+   ]
+  },
+  {
+   "communityNumber": "631",
+   "sector": 6,
+   "name": {
+    "en": "HADAEQ SHEIKH MOHAMMED BIN RASHID",
+    "ar": "حدائق الشيخ محمد بن راشد"
+   },
+   "nameDisplay": {
+    "en": "Hadaeq Sheikh Mohammed Bin Rashid",
+    "ar": "حدائق الشيخ محمد بن راشد"
+   },
+   "centroid": [
+    55.26735,
+    25.10545
+   ],
+   "bbox": [
+    55.23303,
+    25.05602,
+    55.29575,
+    25.15248
+   ]
+  },
+  {
+   "communityNumber": "643",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 2",
+    "ar": "وادي الصفا 2"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 2",
+    "ar": "وادي الصفا 2"
+   },
+   "centroid": [
+    55.36163,
+    25.10639
+   ],
+   "bbox": [
+    55.3309,
+    25.07955,
+    55.37892,
+    25.1199
+   ]
+  },
+  {
+   "communityNumber": "645",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 3",
+    "ar": "وادي الصفا 3"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 3",
+    "ar": "وادي الصفا 3"
+   },
+   "centroid": [
+    55.32366,
+    25.11591
+   ],
+   "bbox": [
+    55.27825,
+    25.06588,
+    55.36494,
+    25.13637
+   ]
+  },
+  {
+   "communityNumber": "646",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 4",
+    "ar": "وادي الصفا 4"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 4",
+    "ar": "وادي الصفا 4"
+   },
+   "centroid": [
+    55.31419,
+    25.07334
+   ],
+   "bbox": [
+    55.29575,
+    25.05827,
+    55.33738,
+    25.0979
+   ]
+  },
+  {
+   "communityNumber": "648",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 5",
+    "ar": "وادي الصفا 5"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 5",
+    "ar": "وادي الصفا 5"
+   },
+   "centroid": [
+    55.36396,
+    25.08273
+   ],
+   "bbox": [
+    55.30117,
+    25.04939,
+    55.39212,
+    25.1034
+   ]
+  },
+  {
+   "communityNumber": "664",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 6",
+    "ar": "وادي الصفا 6"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 6",
+    "ar": "وادي الصفا 6"
+   },
+   "centroid": [
+    55.27127,
+    25.05486
+   ],
+   "bbox": [
+    55.24939,
+    25.03537,
+    55.30117,
+    25.06588
+   ]
+  },
+  {
+   "communityNumber": "665",
+   "sector": 6,
+   "name": {
+    "en": "WADI AL SAFA 7",
+    "ar": "وادي الصفا 7"
+   },
+   "nameDisplay": {
+    "en": "Wadi Al Safa 7",
+    "ar": "وادي الصفا 7"
+   },
+   "centroid": [
+    55.28593,
+    25.04294
+   ],
+   "bbox": [
+    55.26001,
+    25.02221,
+    55.3088,
+    25.05827
+   ]
+  },
+  {
+   "communityNumber": "671",
+   "sector": 6,
+   "name": {
+    "en": "AL BARSHA SOUTH FIRST",
+    "ar": "البرشاء جنوب الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha South First",
+    "ar": "البرشاء جنوب الأولى"
+   },
+   "centroid": [
+    55.23026,
+    25.08422
+   ],
+   "bbox": [
+    55.21024,
+    25.0711,
+    55.24996,
+    25.10235
+   ]
+  },
+  {
+   "communityNumber": "672",
+   "sector": 6,
+   "name": {
+    "en": "AL BARSHA SOUTH SECOND",
+    "ar": "البرشاء جنوب الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha South Second",
+    "ar": "البرشاء جنوب الثانية"
+   },
+   "centroid": [
+    55.23239,
+    25.07189
+   ],
+   "bbox": [
+    55.21683,
+    25.0617,
+    55.25015,
+    25.08126
+   ]
+  },
+  {
+   "communityNumber": "673",
+   "sector": 6,
+   "name": {
+    "en": "AL BARSHA SOUTH THIRD",
+    "ar": "البرشاء جنوب الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha South Third",
+    "ar": "البرشاء جنوب الثالثة"
+   },
+   "centroid": [
+    55.23458,
+    25.06214
+   ],
+   "bbox": [
+    55.22102,
+    25.05187,
+    55.24981,
+    25.06831
+   ]
+  },
+  {
+   "communityNumber": "674",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH FIRST",
+    "ar": "الحبيه الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah First",
+    "ar": "الحبيه الأولى"
+   },
+   "centroid": [
+    55.23922,
+    25.0499
+   ],
+   "bbox": [
+    55.22349,
+    25.03448,
+    55.25182,
+    25.05602
+   ]
+  },
+  {
+   "communityNumber": "675",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH SECOND",
+    "ar": "الحبيه الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah Second",
+    "ar": "الحبيه الثانية"
+   },
+   "centroid": [
+    55.24828,
+    25.03825
+   ],
+   "bbox": [
+    55.23204,
+    25.02418,
+    55.26001,
+    25.04588
+   ]
+  },
+  {
+   "communityNumber": "676",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH THIRD",
+    "ar": "الحبيه الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah Third",
+    "ar": "الحبيه الثالثة"
+   },
+   "centroid": [
+    55.26223,
+    25.02174
+   ],
+   "bbox": [
+    55.2396,
+    25.00825,
+    55.2665,
+    25.03537
+   ]
+  },
+  {
+   "communityNumber": "677",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH SIXTH",
+    "ar": "الحبيه السادسة"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah Sixth",
+    "ar": "الحبيه السادسة"
+   },
+   "centroid": [
+    55.26284,
+    25.0214
+   ],
+   "bbox": [
+    55.25441,
+    25.00281,
+    55.2816,
+    25.03032
+   ]
+  },
+  {
+   "communityNumber": "681",
+   "sector": 6,
+   "name": {
+    "en": "AL BARSHA SOUTH FOURTH",
+    "ar": "البرشاء جنوب الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha South Fourth",
+    "ar": "البرشاء جنوب الرابعة"
+   },
+   "centroid": [
+    55.21206,
+    25.05955
+   ],
+   "bbox": [
+    55.19512,
+    25.04332,
+    55.22349,
+    25.07693
+   ]
+  },
+  {
+   "communityNumber": "682",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH FOURTH",
+    "ar": "الحبيه الرابعة"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah Fourth",
+    "ar": "الحبيه الرابعة"
+   },
+   "centroid": [
+    55.21377,
+    25.03509
+   ],
+   "bbox": [
+    55.19955,
+    25.01136,
+    55.2396,
+    25.05187
+   ]
+  },
+  {
+   "communityNumber": "683",
+   "sector": 6,
+   "name": {
+    "en": "AL HEBIAH FIFTH",
+    "ar": "الحبيه الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Hebiah Fifth",
+    "ar": "الحبيه الخامسة"
+   },
+   "centroid": [
+    55.24061,
+    25.00256
+   ],
+   "bbox": [
+    55.2162,
+    24.99201,
+    55.26017,
+    25.02418
+   ]
+  },
+  {
+   "communityNumber": "684",
+   "sector": 6,
+   "name": {
+    "en": "AL BARSHA SOUTH FIFTH",
+    "ar": "البرشاء جنوب الخامسة"
+   },
+   "nameDisplay": {
+    "en": "Al Barsha South Fifth",
+    "ar": "البرشاء جنوب الخامسة"
+   },
+   "centroid": [
+    55.18768,
+    25.04329
+   ],
+   "bbox": [
+    55.16857,
+    25.02936,
+    55.19955,
+    25.06408
+   ]
+  },
+  {
+   "communityNumber": "685",
+   "sector": 6,
+   "name": {
+    "en": "ME'AISEM FIRST",
+    "ar": "معيصم الأولى"
+   },
+   "nameDisplay": {
+    "en": "Me'aisem First",
+    "ar": "معيصم الأولى"
+   },
+   "centroid": [
+    55.1833,
+    25.01775
+   ],
+   "bbox": [
+    55.15815,
+    24.99619,
+    55.2162,
+    25.04332
+   ]
+  },
+  {
+   "communityNumber": "686",
+   "sector": 6,
+   "name": {
+    "en": "ME'AISEM SECOND",
+    "ar": "معيصم الثانية"
+   },
+   "nameDisplay": {
+    "en": "Me'aisem Second",
+    "ar": "معيصم الثانية"
+   },
+   "centroid": [
+    55.21277,
+    24.99458
+   ],
+   "bbox": [
+    55.18786,
+    24.97821,
+    55.24897,
+    25.01136
+   ]
+  },
+  {
+   "communityNumber": "711",
+   "sector": 7,
+   "name": {
+    "en": "AL AWIR FIRST",
+    "ar": "العوير الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Awir First",
+    "ar": "العوير الأولى"
+   },
+   "centroid": [
+    55.54518,
+    25.18192
+   ],
+   "bbox": [
+    55.49551,
+    25.16185,
+    55.63303,
+    25.23477
+   ]
+  },
+  {
+   "communityNumber": "721",
+   "sector": 7,
+   "name": {
+    "en": "AL AWIR SECOND",
+    "ar": "العوير الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Awir Second",
+    "ar": "العوير الثانية"
+   },
+   "centroid": [
+    55.55934,
+    25.17025
+   ],
+   "bbox": [
+    55.51133,
+    25.14223,
+    55.64166,
+    25.19461
+   ]
+  },
+  {
+   "communityNumber": "724",
+   "sector": 7,
+   "name": {
+    "en": "ENKHALI",
+    "ar": "نخلي"
+   },
+   "nameDisplay": {
+    "en": "Enkhali",
+    "ar": "نخلي"
+   },
+   "centroid": [
+    55.55206,
+    25.11705
+   ],
+   "bbox": [
+    55.52834,
+    25.07191,
+    55.61233,
+    25.14281
+   ]
+  },
+  {
+   "communityNumber": "727",
+   "sector": 7,
+   "name": {
+    "en": "AL WOHOOSH",
+    "ar": "الوحوش"
+   },
+   "nameDisplay": {
+    "en": "Al Wohoosh",
+    "ar": "الوحوش"
+   },
+   "centroid": [
+    55.62814,
+    25.11734
+   ],
+   "bbox": [
+    55.60139,
+    25.09028,
+    55.6525,
+    25.15146
+   ]
+  },
+  {
+   "communityNumber": "731",
+   "sector": 7,
+   "name": {
+    "en": "LEHBAB FIRST",
+    "ar": "لهباب الأولى"
+   },
+   "nameDisplay": {
+    "en": "Lehbab First",
+    "ar": "لهباب الأولى"
+   },
+   "centroid": [
+    55.60076,
+    25.04866
+   ],
+   "bbox": [
+    55.56444,
+    25.02309,
+    55.63928,
+    25.09506
+   ]
+  },
+  {
+   "communityNumber": "735",
+   "sector": 7,
+   "name": {
+    "en": "AL MERYAL",
+    "ar": "المريال"
+   },
+   "nameDisplay": {
+    "en": "Al Meryal",
+    "ar": "المريال"
+   },
+   "centroid": [
+    55.64518,
+    25.06969
+   ],
+   "bbox": [
+    55.62825,
+    25.04009,
+    55.66242,
+    25.09975
+   ]
+  },
+  {
+   "communityNumber": "736",
+   "sector": 7,
+   "name": {
+    "en": "NAZWAH",
+    "ar": "نزوه"
+   },
+   "nameDisplay": {
+    "en": "Nazwah",
+    "ar": "نزوه"
+   },
+   "centroid": [
+    55.64101,
+    25.01848
+   ],
+   "bbox": [
+    55.6181,
+    24.99817,
+    55.66233,
+    25.044
+   ]
+  },
+  {
+   "communityNumber": "811",
+   "sector": 8,
+   "name": {
+    "en": "WARSAN THIRD",
+    "ar": "ورسان الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Warsan Third",
+    "ar": "ورسان الثالثة"
+   },
+   "centroid": [
+    55.45349,
+    25.15436
+   ],
+   "bbox": [
+    55.43079,
+    25.14003,
+    55.49551,
+    25.16804
+   ]
+  },
+  {
+   "communityNumber": "812",
+   "sector": 8,
+   "name": {
+    "en": "AL ROWAIYAH FIRST",
+    "ar": "الرويه الأولى"
+   },
+   "nameDisplay": {
+    "en": "Al Rowaiyah First",
+    "ar": "الرويه الأولى"
+   },
+   "centroid": [
+    55.42244,
+    25.12828
+   ],
+   "bbox": [
+    55.40823,
+    25.10304,
+    55.46686,
+    25.14183
+   ]
+  },
+  {
+   "communityNumber": "813",
+   "sector": 8,
+   "name": {
+    "en": "AL ROWAIYAH SECOND",
+    "ar": "الرويه الثانية"
+   },
+   "nameDisplay": {
+    "en": "Al Rowaiyah Second",
+    "ar": "الرويه الثانية"
+   },
+   "centroid": [
+    55.39531,
+    25.10775
+   ],
+   "bbox": [
+    55.37892,
+    25.08752,
+    55.41487,
+    25.12523
+   ]
+  },
+  {
+   "communityNumber": "814",
+   "sector": 8,
+   "name": {
+    "en": "AL ROWAIYAH THIRD",
+    "ar": "الرويه الثالثة"
+   },
+   "nameDisplay": {
+    "en": "Al Rowaiyah Third",
+    "ar": "الرويه الثالثة"
+   },
+   "centroid": [
+    55.48599,
+    25.12603
+   ],
+   "bbox": [
+    55.39212,
+    25.0764,
+    55.52932,
+    25.16444
+   ]
+  },
+  {
+   "communityNumber": "821",
+   "sector": 8,
+   "name": {
+    "en": "MEREIYEEL",
+    "ar": "مرييل"
+   },
+   "nameDisplay": {
+    "en": "Mereiyeel",
+    "ar": "مرييل"
+   },
+   "centroid": [
+    55.52089,
+    25.10654
+   ],
+   "bbox": [
+    55.45851,
+    25.07301,
+    55.55592,
+    25.13383
+   ]
+  },
+  {
+   "communityNumber": "824",
+   "sector": 8,
+   "name": {
+    "en": "UMM AL DAMAN",
+    "ar": "أم الدمن"
+   },
+   "nameDisplay": {
+    "en": "Umm Al Daman",
+    "ar": "أم الدمن"
+   },
+   "centroid": [
+    55.4337,
+    25.05972
+   ],
+   "bbox": [
+    55.40118,
+    25.0358,
+    55.50087,
+    25.07972
+   ]
+  },
+  {
+   "communityNumber": "826",
+   "sector": 8,
+   "name": {
+    "en": "LE HEMAIRA",
+    "ar": "الحميرا"
+   },
+   "nameDisplay": {
+    "en": "Le Hemaira",
+    "ar": "الحميرا"
+   },
+   "centroid": [
+    55.46621,
+    25.02847
+   ],
+   "bbox": [
+    55.43768,
+    25.00478,
+    55.52592,
+    25.07641
+   ]
+  },
+  {
+   "communityNumber": "831",
+   "sector": 8,
+   "name": {
+    "en": "LEHBAB SECOND",
+    "ar": "لهباب الثانية"
+   },
+   "nameDisplay": {
+    "en": "Lehbab Second",
+    "ar": "لهباب الثانية"
+   },
+   "centroid": [
+    55.57178,
+    25.04704
+   ],
+   "bbox": [
+    55.50659,
+    24.96613,
+    55.61805,
+    25.07885
+   ]
+  },
+  {
+   "communityNumber": "835",
+   "sector": 8,
+   "name": {
+    "en": "UMM AL MO'MENEEN",
+    "ar": "أم المؤمنين"
+   },
+   "nameDisplay": {
+    "en": "Umm Al Mo'meneen",
+    "ar": "أم المؤمنين"
+   },
+   "centroid": [
+    55.49286,
+    24.9876
+   ],
+   "bbox": [
+    55.46575,
+    24.96475,
+    55.55178,
+    25.02103
+   ]
+  },
+  {
+   "communityNumber": "841",
+   "sector": 8,
+   "name": {
+    "en": "MARGHAM",
+    "ar": "مرغم"
+   },
+   "nameDisplay": {
+    "en": "Margham",
+    "ar": "مرغم"
+   },
+   "centroid": [
+    55.56501,
+    24.93914
+   ],
+   "bbox": [
+    55.49419,
+    24.87586,
+    55.66104,
+    25.02314
+   ]
+  },
+  {
+   "communityNumber": "845",
+   "sector": 8,
+   "name": {
+    "en": "AL MAHA",
+    "ar": "المها"
+   },
+   "nameDisplay": {
+    "en": "Al Maha",
+    "ar": "المها"
+   },
+   "centroid": [
+    55.64598,
+    24.94394
+   ],
+   "bbox": [
+    55.62005,
+    24.87378,
+    55.69279,
+    25.00267
+   ]
+  },
+  {
+   "communityNumber": "847",
+   "sector": 8,
+   "name": {
+    "en": "UMM ESELAY",
+    "ar": "أم السلي"
+   },
+   "nameDisplay": {
+    "en": "Umm Eselay",
+    "ar": "أم السلي"
+   },
+   "centroid": [
+    55.58363,
+    24.86057
+   ],
+   "bbox": [
+    55.54996,
+    24.8189,
+    55.68757,
+    24.89896
+   ]
+  },
+  {
+   "communityNumber": "851",
+   "sector": 8,
+   "name": {
+    "en": "REMAH",
+    "ar": "رماح"
+   },
+   "nameDisplay": {
+    "en": "Remah",
+    "ar": "رماح"
+   },
+   "centroid": [
+    55.66381,
+    24.84284
+   ],
+   "bbox": [
+    55.61671,
+    24.78481,
+    55.72353,
+    24.90137
+   ]
+  },
+  {
+   "communityNumber": "857",
+   "sector": 8,
+   "name": {
+    "en": "MARGAB",
+    "ar": "مرقب"
+   },
+   "nameDisplay": {
+    "en": "Margab",
+    "ar": "مرقب"
+   },
+   "centroid": [
+    55.59146,
+    24.81094
+   ],
+   "bbox": [
+    55.57394,
+    24.77172,
+    55.6426,
+    24.852
+   ]
+  },
+  {
+   "communityNumber": "861",
+   "sector": 8,
+   "name": {
+    "en": "YARAAH",
+    "ar": "يراح"
+   },
+   "nameDisplay": {
+    "en": "Yaraah",
+    "ar": "يراح"
+   },
+   "centroid": [
+    55.63117,
+    24.74616
+   ],
+   "bbox": [
+    55.60183,
+    24.71984,
+    55.7371,
+    24.80838
+   ]
+  },
+  {
+   "communityNumber": "891",
+   "sector": 8,
+   "name": {
+    "en": "HATTA",
+    "ar": "حتا"
+   },
+   "nameDisplay": {
+    "en": "Hatta",
+    "ar": "حتا"
+   },
+   "centroid": [
+    56.11498,
+    24.81177
+   ],
+   "bbox": [
+    56.06176,
+    24.73821,
+    56.20591,
+    24.871
+   ]
+  },
+  {
+   "communityNumber": "911",
+   "sector": 9,
+   "name": {
+    "en": "MADINAT HIND 1",
+    "ar": "مدينة هند 1"
+   },
+   "nameDisplay": {
+    "en": "Madinat Hind 1",
+    "ar": "مدينة هند 1"
+   },
+   "centroid": [
+    55.39149,
+    25.06456
+   ],
+   "bbox": [
+    55.35858,
+    25.04935,
+    55.41333,
+    25.08752
+   ]
+  },
+  {
+   "communityNumber": "912",
+   "sector": 9,
+   "name": {
+    "en": "MADINAT HIND 2",
+    "ar": "مدينة هند 2"
+   },
+   "nameDisplay": {
+    "en": "Madinat Hind 2",
+    "ar": "مدينة هند 2"
+   },
+   "centroid": [
+    55.33947,
+    25.05619
+   ],
+   "bbox": [
+    55.30878,
+    25.04207,
+    55.36707,
+    25.0691
+   ]
+  },
+  {
+   "communityNumber": "913",
+   "sector": 9,
+   "name": {
+    "en": "MADINAT HIND 3",
+    "ar": "مدينة هند 3"
+   },
+   "nameDisplay": {
+    "en": "Madinat Hind 3",
+    "ar": "مدينة هند 3"
+   },
+   "centroid": [
+    55.41783,
+    25.02419
+   ],
+   "bbox": [
+    55.40288,
+    24.99843,
+    55.44513,
+    25.06258
+   ]
+  },
+  {
+   "communityNumber": "914",
+   "sector": 9,
+   "name": {
+    "en": "MADINAT HIND 4",
+    "ar": "مدينة هند 4"
+   },
+   "nameDisplay": {
+    "en": "Madinat Hind 4",
+    "ar": "مدينة هند 4"
+   },
+   "centroid": [
+    55.37155,
+    24.99805
+   ],
+   "bbox": [
+    55.31417,
+    24.96401,
+    55.40988,
+    25.05591
+   ]
+  },
+  {
+   "communityNumber": "915",
+   "sector": 9,
+   "name": {
+    "en": "AL YUFRAH 1",
+    "ar": "اليفره 1"
+   },
+   "nameDisplay": {
+    "en": "Al Yufrah 1",
+    "ar": "اليفره 1"
+   },
+   "centroid": [
+    55.42269,
+    24.9936
+   ],
+   "bbox": [
+    55.39933,
+    24.97491,
+    55.46575,
+    25.03086
+   ]
+  },
+  {
+   "communityNumber": "917",
+   "sector": 9,
+   "name": {
+    "en": "AL MARMOOM",
+    "ar": "المرموم"
+   },
+   "nameDisplay": {
+    "en": "Al Marmoom",
+    "ar": "المرموم"
+   },
+   "centroid": [
+    55.43786,
+    24.98016
+   ],
+   "bbox": [
+    55.39835,
+    24.9567,
+    55.49419,
+    25.00478
+   ]
+  },
+  {
+   "communityNumber": "919",
+   "sector": 9,
+   "name": {
+    "en": "AL YUFRAH 2",
+    "ar": "اليفره 2"
+   },
+   "nameDisplay": {
+    "en": "Al Yufrah 2",
+    "ar": "اليفره 2"
+   },
+   "centroid": [
+    55.39066,
+    24.96524
+   ],
+   "bbox": [
+    55.36343,
+    24.94988,
+    55.41556,
+    24.98691
+   ]
+  },
+  {
+   "communityNumber": "921",
+   "sector": 9,
+   "name": {
+    "en": "AL YALAYIS 1",
+    "ar": "اليلايس 1"
+   },
+   "nameDisplay": {
+    "en": "Al Yalayis 1",
+    "ar": "اليلايس 1"
+   },
+   "centroid": [
+    55.31555,
+    25.01338
+   ],
+   "bbox": [
+    55.2816,
+    24.98923,
+    55.33546,
+    25.04937
+   ]
+  },
+  {
+   "communityNumber": "922",
+   "sector": 9,
+   "name": {
+    "en": "AL YALAYIS 2",
+    "ar": "اليلايس 2"
+   },
+   "nameDisplay": {
+    "en": "Al Yalayis 2",
+    "ar": "اليلايس 2"
+   },
+   "centroid": [
+    55.29194,
+    24.99425
+   ],
+   "bbox": [
+    55.26006,
+    24.97382,
+    55.32105,
+    25.02221
+   ]
+  },
+  {
+   "communityNumber": "923",
+   "sector": 9,
+   "name": {
+    "en": "AL YALAYIS 3",
+    "ar": "اليلايس 3"
+   },
+   "nameDisplay": {
+    "en": "Al Yalayis 3",
+    "ar": "اليلايس 3"
+   },
+   "centroid": [
+    55.35102,
+    24.97802
+   ],
+   "bbox": [
+    55.32105,
+    24.94973,
+    55.36617,
+    25.00145
+   ]
+  },
+  {
+   "communityNumber": "924",
+   "sector": 9,
+   "name": {
+    "en": "AL YALAYIS 4",
+    "ar": "اليلايس 4"
+   },
+   "nameDisplay": {
+    "en": "Al Yalayis 4",
+    "ar": "اليلايس 4"
+   },
+   "centroid": [
+    55.32138,
+    24.96809
+   ],
+   "bbox": [
+    55.29212,
+    24.94986,
+    55.34331,
+    24.98923
+   ]
+  },
+  {
+   "communityNumber": "925",
+   "sector": 9,
+   "name": {
+    "en": "AL YALAYIS 5",
+    "ar": "اليلايس 5"
+   },
+   "nameDisplay": {
+    "en": "Al Yalayis 5",
+    "ar": "اليلايس 5"
+   },
+   "centroid": [
+    55.25586,
+    24.97613
+   ],
+   "bbox": [
+    55.23444,
+    24.95001,
+    55.30572,
+    25.0027
+   ]
+  },
+  {
+   "communityNumber": "931",
+   "sector": 9,
+   "name": {
+    "en": "AL LESAILY",
+    "ar": "الليسيلي"
+   },
+   "nameDisplay": {
+    "en": "Al Lesaily",
+    "ar": "الليسيلي"
+   },
+   "centroid": [
+    55.47248,
+    24.94386
+   ],
+   "bbox": [
+    55.37628,
+    24.85355,
+    55.52126,
+    24.96475
+   ]
+  },
+  {
+   "communityNumber": "941",
+   "sector": 9,
+   "name": {
+    "en": "GRAYTEESAH",
+    "ar": "قريطيسه"
+   },
+   "nameDisplay": {
+    "en": "Grayteesah",
+    "ar": "قريطيسه"
+   },
+   "centroid": [
+    55.54326,
+    24.87219
+   ],
+   "bbox": [
+    55.44234,
+    24.78839,
+    55.57298,
+    24.92364
+   ]
+  },
+  {
+   "communityNumber": "945",
+   "sector": 9,
+   "name": {
+    "en": "AL FAGAA",
+    "ar": "الفقع"
+   },
+   "nameDisplay": {
+    "en": "Al Fagaa",
+    "ar": "الفقع"
+   },
+   "centroid": [
+    55.58654,
+    24.77135
+   ],
+   "bbox": [
+    55.46329,
+    24.64668,
+    55.62174,
+    24.83127
+   ]
+  },
+  {
+   "communityNumber": "951",
+   "sector": 9,
+   "name": {
+    "en": "SAIH AL SALAM",
+    "ar": "سيح السلم"
+   },
+   "nameDisplay": {
+    "en": "Saih Al Salam",
+    "ar": "سيح السلم"
+   },
+   "centroid": [
+    55.3689,
+    24.8895
+   ],
+   "bbox": [
+    55.34032,
+    24.8006,
+    55.44234,
+    24.95029
+   ]
+  },
+  {
+   "communityNumber": "956",
+   "sector": 9,
+   "name": {
+    "en": "AL HATHMAH",
+    "ar": "الحثمة"
+   },
+   "nameDisplay": {
+    "en": "Al Hathmah",
+    "ar": "الحثمة"
+   },
+   "centroid": [
+    55.46014,
+    24.80357
+   ],
+   "bbox": [
+    55.38279,
+    24.76453,
+    55.51341,
+    24.85355
+   ]
+  },
+  {
+   "communityNumber": "961",
+   "sector": 9,
+   "name": {
+    "en": "MADINAT LATIFA",
+    "ar": "مدينة لطيفة"
+   },
+   "nameDisplay": {
+    "en": "Madinat Latifa",
+    "ar": "مدينة لطيفة"
+   },
+   "centroid": [
+    55.2444,
+    24.88726
+   ],
+   "bbox": [
+    55.18427,
+    24.81789,
+    55.3453,
+    24.95713
+   ]
+  },
+  {
+   "communityNumber": "967",
+   "sector": 9,
+   "name": {
+    "en": "GHADEER BARASHY",
+    "ar": "غدير براشي"
+   },
+   "nameDisplay": {
+    "en": "Ghadeer Barashy",
+    "ar": "غدير براشي"
+   },
+   "centroid": [
+    55.29719,
+    24.82846
+   ],
+   "bbox": [
+    55.25692,
+    24.76262,
+    55.38279,
+    24.85138
+   ]
+  },
+  {
+   "communityNumber": "971",
+   "sector": 9,
+   "name": {
+    "en": "SAIH AL DAHAL",
+    "ar": "سيح الدحل"
+   },
+   "nameDisplay": {
+    "en": "Saih Al Dahal",
+    "ar": "سيح الدحل"
+   },
+   "centroid": [
+    55.37913,
+    24.74665
+   ],
+   "bbox": [
+    55.29348,
+    24.6917,
+    55.5321,
+    24.8006
+   ]
+  },
+  {
+   "communityNumber": "975",
+   "sector": 9,
+   "name": {
+    "en": "AL O'SHOOSH",
+    "ar": "العشوش"
+   },
+   "nameDisplay": {
+    "en": "Al O'shoosh",
+    "ar": "العشوش"
+   },
+   "centroid": [
+    55.34983,
+    24.66016
+   ],
+   "bbox": [
+    55.30768,
+    24.62308,
+    55.4012,
+    24.72227
+   ]
+  },
+  {
+   "communityNumber": "978",
+   "sector": 9,
+   "name": {
+    "en": "SAIH SHUA'ALAH",
+    "ar": "سيح شعيله"
+   },
+   "nameDisplay": {
+    "en": "Saih Shua'alah",
+    "ar": "سيح شعيله"
+   },
+   "centroid": [
+    55.42069,
+    24.65881
+   ],
+   "bbox": [
+    55.35447,
+    24.62655,
+    55.4966,
+    24.69728
+   ]
+  },
+  {
+   "communityNumber": "981",
+   "sector": 9,
+   "name": {
+    "en": "MUGATRAH",
+    "ar": "مقطره"
+   },
+   "nameDisplay": {
+    "en": "Mugatrah",
+    "ar": "مقطره"
+   },
+   "centroid": [
+    55.17688,
+    24.83882
+   ],
+   "bbox": [
+    55.12883,
+    24.73287,
+    55.31087,
+    24.86905
+   ]
+  },
+  {
+   "communityNumber": "987",
+   "sector": 9,
+   "name": {
+    "en": "AL LAYAN 1",
+    "ar": "الليان 1"
+   },
+   "nameDisplay": {
+    "en": "Al Layan 1",
+    "ar": "الليان 1"
+   },
+   "centroid": [
+    55.10801,
+    24.80898
+   ],
+   "bbox": [
+    55.08326,
+    24.76407,
+    55.16147,
+    24.82601
+   ]
+  },
+  {
+   "communityNumber": "988",
+   "sector": 9,
+   "name": {
+    "en": "AL LAYAN 2",
+    "ar": "الليان 2"
+   },
+   "nameDisplay": {
+    "en": "Al Layan 2",
+    "ar": "الليان 2"
+   },
+   "centroid": [
+    55.15787,
+    24.74746
+   ],
+   "bbox": [
+    55.11028,
+    24.71802,
+    55.20284,
+    24.78495
+   ]
+  },
+  {
+   "communityNumber": "991",
+   "sector": 9,
+   "name": {
+    "en": "HEFAIR",
+    "ar": "حفير"
+   },
+   "nameDisplay": {
+    "en": "Hefair",
+    "ar": "حفير"
+   },
+   "centroid": [
+    55.25981,
+    24.70549
+   ],
+   "bbox": [
+    55.14903,
+    24.626,
+    55.32385,
+    24.75784
+   ]
+  }
+ ]
+}

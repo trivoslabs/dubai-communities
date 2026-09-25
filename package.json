@@ -1,0 +1,15 @@
+{
+  "name": "@trivoslabs/dubai-communities",
+  "version": "0.1.0",
+  "description": "The 224 communities of Dubai with official community numbers, English and Arabic names, sectors and approximate coordinates. Source: Dubai Municipality GIS layer via Dubai Data (Open). Zero dependencies. | مجتمعات دبي بالعربية والإنجليزية",
+  "type": "module",
+  "main": "src/index.mjs",
+  "exports": "./src/index.mjs",
+  "files": ["src", "data"],
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "keywords": ["dubai","uae","communities","neighbourhoods","arabic","i18n","rtl","gis","dubai-data","open-data"],
+  "author": "Trivos Labs FZCO <dev@trivoslabs.com> (https://trivoslabs.com)",
+  "license": "Apache-2.0",
+  "repository": { "type": "git", "url": "https://github.com/trivoslabs/dubai-communities.git" }
+}
