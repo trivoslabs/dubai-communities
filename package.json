@@ -10,6 +10,7 @@
   "engines": { "node": ">=18" },
   "keywords": ["dubai","uae","communities","neighbourhoods","arabic","i18n","rtl","gis","dubai-data","open-data"],
   "author": "Trivos Labs FZCO <dev@trivoslabs.com> (https://trivoslabs.com)",
-  "license": "Apache-2.0",
+  "license": "Apache-2.0 AND LicenseRef-Dubai-Open-Data",
+  "dataLicense": "SEE LICENSE IN data/LICENSE-DATA.md",
   "repository": { "type": "git", "url": "https://github.com/trivoslabs/dubai-communities.git" }
 }
