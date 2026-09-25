@@ -69,6 +69,9 @@ const options = toSelectOptions(communities({ sector: 3, locale: "ar" }), {
 | Data | Dubai Municipality GIS community layer **Community_20260815**, obtained from [Dubai Data](https://www.dubaipulse.gov.ae/) (data.dubai) as **Open**-classified data, retrieved **2026-08-25** |
 | Coordinates | `centroid` (`[lon, lat]`) and `bbox` (`[minLon, minLat, maxLon, maxLat]`), WGS 84, **derived from the source boundary polygons** — approximate, not official coordinates |
 | Arabic ordering | `Intl.Collator("ar")` — built into JavaScript |
+| Portal format | KML, from an ESRI SDE Geodatabase; dataset created 08 Jul 2019 |
+| Portal update cadence | Source updated daily; published to the Dubai Data platform monthly |
+| Portal rights/license | Rights listed as "Intellectual"; License field listed as "Not Specified" — check the source portal directly for current terms before relying on data licensing |
 
 Call `dataSource()` for the source layer, retrieval date and record count at runtime.
 
@@ -78,7 +81,7 @@ This package is built from Open-classified Dubai Data and is not endorsed by, an
 
 ## Data currency and maintenance
 
-**What this release contains.** This release is a static snapshot: the Dubai Municipality GIS community layer **Community_20260815**, obtained from Dubai Data (data.dubai) as Open-classified data, retrieved **2026-08-25**. Nothing in this package calls a live service — the numbers, names and coordinates were downloaded once and committed as-is.
+**What this release contains.** This release is a static snapshot: the Dubai Municipality GIS community layer **Community_20260815**, obtained from Dubai Data (data.dubai) as Open-classified data, retrieved **2026-08-25**. Nothing in this package calls a live service — the numbers, names and coordinates were downloaded once and committed as-is. The portal's own "Last updated" field for this layer currently shows **31 Aug 2026** — after our retrieval date — so a newer version may already exist on the source; see "How it will be kept current" below.
 
 **Why a package, not an API call.** Community boundaries are administrative reference data that change rarely. An application that queries a live service on every page view places continuous load on that service for data that is effectively static. Shipping the list as a versioned package lets an application resolve it locally, with no network call. Any application that needs authoritative, real-time data should use the official Dubai Data portal and its APIs directly — this package is a convenience copy with its retrieval date recorded, not a substitute for the source.
 
@@ -115,11 +118,13 @@ Apache-2.0 © Trivos Labs FZCO
 
 مصدر البيانات: طبقة مجتمعات بلدية دبي الجغرافية **Community_20260815**، المتاحة عبر [بيانات دبي](https://www.dubaipulse.gov.ae/) بتصنيف **مفتوح**، بتاريخ استرجاع **2026-08-25**. الإحداثيات (`centroid` و`bbox`) مشتقة من حدود الطبقة المصدر وهي تقريبية، وليست إحداثيات رسمية. أسماء القطاعات الرسمية غير متضمنة في هذه البيانات، وهي بانتظار مجموعة بيانات القطاعات من بيانات دبي.
 
+بيانات البوابة الإضافية: التنسيق **KML**، من قاعدة بيانات جغرافية ESRI SDE؛ أُنشئت مجموعة البيانات في 08 يوليو 2019. يُحدَّث المصدر يومياً، بينما تُنشر التحديثات على منصة بيانات دبي شهرياً. حقوق البيانات مُدرجة كـ"فكرية"، وحقل الترخيص مُدرج كـ"غير محدد" — يُرجى مراجعة البوابة الرسمية مباشرة قبل الاعتماد على شروط الترخيص.
+
 هذه الحزمة مبنية على بيانات دبي المفتوحة، وهي غير معتمدة من قبل بلدية دبي أو بيانات دبي أو دبي الرقمية ولا تمثلها.
 
 ## حداثة البيانات وصيانتها
 
-**ما تتضمنه هذه النسخة:** هذه النسخة لقطة ثابتة من طبقة مجتمعات بلدية دبي الجغرافية **Community_20260815**، تم الحصول عليها من بيانات دبي (data.dubai) بتصنيف **مفتوح**، وتاريخ الاسترجاع **2026-08-25**. لا تستدعي هذه الحزمة أي خدمة حيّة؛ تم تنزيل الأرقام والأسماء والإحداثيات مرة واحدة وإدراجها كما هي.
+**ما تتضمنه هذه النسخة:** هذه النسخة لقطة ثابتة من طبقة مجتمعات بلدية دبي الجغرافية **Community_20260815**، تم الحصول عليها من بيانات دبي (data.dubai) بتصنيف **مفتوح**، وتاريخ الاسترجاع **2026-08-25**. لا تستدعي هذه الحزمة أي خدمة حيّة؛ تم تنزيل الأرقام والأسماء والإحداثيات مرة واحدة وإدراجها كما هي. حقل "آخر تحديث" في صفحة البوابة لهذه الطبقة يُظهر حالياً **31 أغسطس 2026** — بعد تاريخ استرجاعنا — فقد تكون هناك نسخة أحدث متاحة على المصدر؛ انظر "كيف ستُحدَّث مستقبلاً" أدناه.
 
 **لماذا حزمة بدلاً من استدعاء واجهة برمجية:** حدود المجتمعات بيانات مرجعية إدارية نادراً ما تتغيّر، بينما يضع تطبيقٌ يستدعي خدمة حيّة في كل تحميل صفحة حِملاً مستمراً على تلك الخدمة لبيانات شبه ثابتة فعلياً. نشر القائمة كحزمة ذات إصدار يتيح للتطبيق حلّها محلياً دون أي اتصال شبكي. أي تطبيق يحتاج بيانات رسمية وفي الوقت الحقيقي يجب أن يستخدم بوابة بيانات دبي الرسمية وواجهاتها البرمجية مباشرة؛ هذه الحزمة نسخة مساعدة مسجَّل عليها تاريخ الاسترجاع، وليست بديلاً عن المصدر.
 
